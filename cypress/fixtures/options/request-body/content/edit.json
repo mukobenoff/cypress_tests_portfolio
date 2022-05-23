@@ -1,0 +1,57 @@
+{
+	"status": "active",
+	"selection_type": "one",
+	"_id": "6042353e9333742461a21396",
+	"variants": [
+		{
+			"status": "active",
+			"_id": "605345e56eea4e07b39e46fa",
+			"partner_product_id": 1142,
+			"tax": 10,
+			"name": "Combo5",
+			"id": 1583,
+			"price": 23
+		},
+		{
+			"status": "active",
+			"_id": "605345e56eea4e07b39e46fb",
+			"partner_product_id": 1142,
+			"tax": 20,
+			"name": "Combo5",
+			"id": 1584,
+			"price": 234
+		},
+		{
+			"status": "active",
+			"_id": "6076f27fbf105c668f9b49ee",
+			"partner_product_id": 3094,
+			"name": "666",
+			"tax": 10,
+			"id": 4990,
+			"price": 567567
+		},
+		{
+			"status": "active",
+			"_id": "6076f2f9bf105c668f9b49f5",
+			"partner_product_id": 3202,
+			"name": "23",
+			"tax": 10,
+			"id": 4992,
+			"price": 23
+		},
+		{
+			"partner_product_id": 1416742,
+			"name": "Крокозябрина три",
+			"receipt_price": 100.55,
+			"tax": 10,
+			"price": 100.55
+		}
+	],
+	"name": "Крокодил",
+	"internal_name": "Крокодил",
+	"kind": "content",
+	"partner": "test",
+	"id": 221,
+	"__v": 26,
+	"article": "rrr"
+}

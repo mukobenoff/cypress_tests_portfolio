@@ -1,0 +1,23 @@
+{
+	"option": {
+		"status": "active",
+		"selection_type": "any",
+		"_id": "605c68d537eaab6569d776be",
+		"variants": [
+			{
+				"status": "active",
+				"_id": "605c68d537eaab6569d776bf",
+				"name": "Зеленая",
+				"id": 2011,
+				"price": 400
+			}
+		],
+		"name": "Крокозябрина",
+		"internal_name": "Крокозябрина",
+		"article": "456",
+		"kind": "ingredient",
+		"partner": "test",
+		"id": 488,
+		"__v": 0
+	}
+}

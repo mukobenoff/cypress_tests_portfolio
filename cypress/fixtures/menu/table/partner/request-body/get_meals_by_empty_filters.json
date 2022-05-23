@@ -1,0 +1,14 @@
+{
+	"statuses": [
+			"active",
+			"disabled",
+			"draft",
+			"moderation"
+	],
+	"last_tasks_group_only": true,
+	"is_invisible": false,
+	"nav": {
+			"page": 1,
+			"lpage": 10
+	}
+}

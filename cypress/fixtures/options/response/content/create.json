@@ -1,0 +1,23 @@
+{
+  "variants": [
+    {
+      "partner_product_id": 1416742,
+      "name": "first variant",
+      "price": 100.44,
+      "receipt_price": 100.44,
+      "tax": 0
+    },
+    {
+      "partner_product_id": 1416742,
+      "name": "second variant",
+      "price": 100.55,
+      "receipt_price": 100.55,
+      "tax": 10
+    }
+  ],
+  "selection_type": "one",
+  "name": "Krokoz",
+  "internal_name": "Krokoz",
+  "article": "456",
+  "kind": "content"
+}

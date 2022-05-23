@@ -1,0 +1,42 @@
+{
+	"employee": {
+		"partners": [{
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test"
+		}],
+		"block_reason": {
+			"user": {
+				"id": "60268a497f317644c28e5d0f",
+				"full_name": "аккаунт Тестовый ",
+				"type": "partner"
+			},
+			"text": ""
+		},
+		"unblock_reason": {
+			"user": {
+				"id": "60268a497f317644c28e5d0f",
+				"full_name": "аккаунт Тестовый ",
+				"type": "partner"
+			},
+			"text": ""
+		},
+		"shop": {
+			"id": 632,
+			"address": "Москва, парк Ленина"
+		},
+		"blocked": false,
+		"registered": "2021-02-12T13:23:54.272Z",
+		"permissions": "0000000000000000000000000000000000000000",
+		"roles": [
+			"manager"
+		],
+		"default": true,
+		"surname": "Кокошк",
+		"name": "Оскар",
+		"patronymic": "",
+		"email": "test@test.testtest",
+		"phone": "2223334455",
+		"city": "MSC",
+		"id": "60268a8e7f317644c28e5d10"
+	}
+}

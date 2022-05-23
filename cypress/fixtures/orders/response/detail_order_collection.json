@@ -1,0 +1,696 @@
+{
+	"order": {
+    "id": 1344084,
+    "pay": {
+        "type": "card"
+    },
+    "city": "msk",
+    "shop": 1010,
+    "price": {
+        "products": 2892,
+        "delivery": 99,
+        "total": 2991
+    },
+    "client": {
+        "id": "607459a072a5ce6664cefedc",
+        "name": "adsf",
+        "phone": "9256273844",
+        "email": "asdf@mail.ru",
+        "device_id": "yqq4ndia7r3"
+    },
+    "weight": 0.09,
+    "status": "collecting",
+    "cancel": {},
+    "system_id": "60e2d8e90cabc70ddac2149f",
+    "comment": "",
+    "partner": {
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test"
+    },
+    "address": {
+        "coords": {
+            "lat": 55.77238,
+            "lon": 37.727688
+        },
+        "options": {
+            "flat": "3"
+        },
+        "name": "проспект Будённого, 21с3"
+    },
+    "timezone": "Europe/Moscow",
+    "products": [
+        {
+            "sale": {
+                "data": {
+                    "m": 0,
+                    "n": 0,
+                    "more": 0
+                },
+                "price": 0,
+                "type": ""
+            },
+            "options_total": 124,
+            "key_options": [],
+            "_id": "60e2d8e90cabc70ddac214c4",
+            "id": 1369469,
+            "type": "meal",
+            "article": "64575",
+            "name": "Чучхела ролл (простое блюдо)",
+            "tax": 10,
+            "weight": 0,
+            "boxsize": 1,
+            "price": 500,
+            "unchangeable_combo_composition": [],
+            "options": [
+                {
+                    "total": 55,
+                    "_id": "60e2d8e8ffba8c17b469d57a",
+                    "selection_type": "any",
+                    "selection_required": false,
+                    "kind": "ingredient",
+                    "name": "Овощи",
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d57b",
+                            "free_limit": 1,
+                            "name": "Лук",
+                            "tax": 10,
+                            "article": "13263",
+                            "status": "active",
+                            "id": 125922,
+                            "price": 25,
+                            "total": 0
+                        },
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d57c",
+                            "free_limit": 1,
+                            "name": "Помидоры",
+                            "tax": 10,
+                            "article": "4365",
+                            "status": "active",
+                            "id": 125924,
+                            "price": 35,
+                            "total": 35
+                        },
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d57d",
+                            "free_limit": 1,
+                            "name": "Капуста",
+                            "tax": 10,
+                            "article": "54365",
+                            "status": "active",
+                            "id": 125921,
+                            "price": 40,
+                            "total": 0
+                        },
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d57e",
+                            "free_limit": 1,
+                            "name": "Огурец",
+                            "tax": 10,
+                            "article": "34325",
+                            "status": "active",
+                            "id": 125923,
+                            "price": 20,
+                            "total": 20
+                        }
+                    ],
+                    "article": "4693",
+                    "id": 21134
+                },
+                {
+                    "total": 24,
+                    "_id": "60e2d8e8ffba8c17b469d57f",
+                    "selection_type": "one",
+                    "selection_required": false,
+                    "kind": "option",
+                    "name": "Объем",
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d580",
+                            "name": "Стандартный 300 мл",
+                            "tax": 10,
+                            "status": "active",
+                            "id": 129382,
+                            "price": 24,
+                            "total": 24
+                        }
+                    ],
+                    "article": "3456",
+                    "id": 21657
+                },
+                {
+                    "total": 45,
+                    "_id": "60e2d8e8ffba8c17b469d581",
+                    "selection_type": "one",
+                    "selection_required": true,
+                    "kind": "option",
+                    "name": "Размер",
+                    "default_variant_id": 136404,
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d582",
+                            "name": "30 см",
+                            "tax": 10,
+                            "status": "active",
+                            "id": 136404,
+                            "price": 45,
+                            "total": 45
+                        }
+                    ],
+                    "article": "49056",
+                    "id": 22156
+                }
+            ],
+            "options_groups": [],
+            "options_limits": [
+                {
+                    "_id": "60e2d8e8ffba8c17b469d583",
+                    "limit_type": "global",
+                    "min": 0,
+                    "rule_type": "kind",
+                    "entity_name": "ingredient",
+                    "max": 12
+                }
+            ],
+            "quantity": 1,
+            "selected_option_group": "",
+            "selected_options": [
+                {
+                    "_id": "60e2d8e9ffba8c17b469d64e",
+                    "id": 21134,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d64f",
+                            "id": 125922,
+                            "quantity": 1
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d650",
+                            "id": 125924,
+                            "quantity": 2
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d651",
+                            "id": 125921,
+                            "quantity": 0
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d652",
+                            "id": 125923,
+                            "quantity": 2
+                        }
+                    ]
+                },
+                {
+                    "_id": "60e2d8e9ffba8c17b469d653",
+                    "id": 21657,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d654",
+                            "id": 129382,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "_id": "60e2d8e9ffba8c17b469d655",
+                    "id": 22156,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d656",
+                            "id": 136404,
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ],
+            "meal_total": 624,
+            "total": 624,
+            "external_system_id": "60e2d8e8ffba8c17b469d579",
+            "category": 7
+        },
+        {
+            "sale": {
+                "data": {
+                    "m": 0,
+                    "n": 0,
+                    "more": 0
+                },
+                "price": 0,
+                "type": ""
+            },
+            "options_total": 27,
+            "key_options": [],
+            "_id": "60e2d8e90cabc70ddac214d8",
+            "id": 1369471,
+            "type": "box",
+            "article": "1369471",
+            "name": "Комбо микс (Комбо блюдо)",
+            "tax": 20,
+            "weight": 0,
+            "boxsize": 1,
+            "price": 890,
+            "options": [
+                {
+                    "total": 2,
+                    "_id": "60e2d8e8ffba8c17b469d585",
+                    "selection_type": "one",
+                    "max_limit": 23,
+                    "selection_required": true,
+                    "kind": "content",
+                    "name": "КОпция",
+                    "default_variant_id": 147229,
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d586",
+                            "option_group_key": "21657V129382",
+                            "partner_product_id": 1369470,
+                            "name": "Поке (сложное блюдо) Стандартный 300 мл",
+                            "tax": 10,
+                            "status": "active",
+                            "id": 147229,
+                            "price": 2,
+                            "total": 2
+                        }
+                    ],
+                    "id": 23634
+                },
+                {
+                    "total": 25,
+                    "_id": "60e2d8e8ffba8c17b469d587",
+                    "selection_type": "any",
+                    "max_limit": 4,
+                    "selection_required": false,
+                    "kind": "content",
+                    "name": "КОКОпция",
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d588",
+                            "option_group_key": "21657V129383",
+                            "partner_product_id": 1369470,
+                            "name": "Поке (сложное блюдо) Большой 400 мл",
+                            "tax": 10,
+                            "status": "active",
+                            "id": 147230,
+                            "price": 25,
+                            "total": 25
+                        }
+                    ],
+                    "id": 23635
+                },
+                {
+                    "total": 0,
+                    "_id": "60e2d8e8ffba8c17b469d589",
+                    "id": 1369470,
+                    "kind": "content",
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d58a",
+                            "id": 1369470,
+                            "article": "1369470",
+                            "name": "Поке (сложное блюдо)",
+                            "price": 0,
+                            "tax": 0,
+                            "option_group_key": "21657V129382",
+                            "partner_product_id": 1369470,
+                            "total": 0
+                        }
+                    ]
+                }
+            ],
+            "options_groups": [],
+            "options_limits": [],
+            "quantity": 1,
+            "selected_option_group": "",
+            "selected_options": [
+                {
+                    "_id": "60e2d8e9ffba8c17b469d657",
+                    "id": 23634,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d658",
+                            "id": 147229,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "_id": "60e2d8e9ffba8c17b469d659",
+                    "id": 23635,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d65a",
+                            "id": 147230,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "_id": "60e2d8e9ffba8c17b469d65b",
+                    "id": 1369470,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d65c",
+                            "id": 1369470,
+                            "quantity": 1
+                        }
+                    ]
+                }
+            ],
+            "unchangeable_combo_composition": [
+                {
+                    "_id": "60e2d8e9ffba8c17b469d65d",
+                    "partner_product_id": 1369470,
+                    "option_group_key": "21657V129382"
+                }
+            ],
+            "meal_total": 917,
+            "total": 917,
+            "external_system_id": "60e2d8e8ffba8c17b469d584",
+            "category": 7
+        },
+        {
+            "sale": {
+                "data": {
+                    "m": 0,
+                    "n": 0,
+                    "more": 0
+                },
+                "price": 0,
+                "type": ""
+            },
+            "options_total": 110,
+            "key_options": [
+                21657
+            ],
+            "_id": "60e2d8e90cabc70ddac214e6",
+            "id": 1369470,
+            "type": "complex_meal",
+            "article": "1369470",
+            "name": "Поке (сложное блюдо)",
+            "tax": 20,
+            "weight": 0.045,
+            "boxsize": 1,
+            "price": 540,
+            "unchangeable_combo_composition": [],
+            "options": [
+                {
+                    "total": 0,
+                    "_id": "60e2d8e8ffba8c17b469d58c",
+                    "selection_type": "one",
+                    "selection_required": false,
+                    "kind": "option",
+                    "name": "Объем",
+                    "default_variant_id": 129382,
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d58d",
+                            "name": "Стандартный 300 мл",
+                            "tax": 10,
+                            "status": "active",
+                            "id": 129382,
+                            "price": 0,
+                            "total": 0
+                        }
+                    ],
+                    "article": "3456",
+                    "id": 21657
+                },
+                {
+                    "total": 25,
+                    "_id": "60e2d8e8ffba8c17b469d58e",
+                    "selection_type": "one",
+                    "selection_required": true,
+                    "kind": "option",
+                    "name": "Размер",
+                    "default_variant_id": 136406,
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d58f",
+                            "name": "40 см",
+                            "tax": 10,
+                            "status": "active",
+                            "id": 136405,
+                            "price": 25,
+                            "total": 25
+                        }
+                    ],
+                    "article": "49056",
+                    "id": 22156
+                },
+                {
+                    "total": 35,
+                    "_id": "60e2d8e8ffba8c17b469d590",
+                    "selection_type": "one",
+                    "selection_required": false,
+                    "kind": "option",
+                    "name": "Зелень",
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d591",
+                            "name": "Базилик",
+                            "tax": 10,
+                            "status": "active",
+                            "id": 139596,
+                            "price": 35,
+                            "total": 35
+                        }
+                    ],
+                    "article": "3954",
+                    "id": 22627
+                },
+                {
+                    "total": 50,
+                    "_id": "60e2d8e8ffba8c17b469d592",
+                    "selection_type": "any",
+                    "selection_required": false,
+                    "kind": "ingredient",
+                    "name": "Овощи",
+                    "variants": [
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d593",
+                            "free_limit": 2,
+                            "name": "Лук",
+                            "tax": 10,
+                            "article": "13263",
+                            "status": "active",
+                            "id": 125922,
+                            "price": 25,
+                            "total": 50
+                        },
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d594",
+                            "free_limit": 2,
+                            "name": "Помидоры",
+                            "tax": 10,
+                            "article": "4365",
+                            "status": "active",
+                            "id": 125924,
+                            "price": 25,
+                            "total": 0
+                        },
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d595",
+                            "free_limit": 2,
+                            "name": "Капуста",
+                            "tax": 10,
+                            "article": "54365",
+                            "status": "active",
+                            "id": 125921,
+                            "price": 25,
+                            "total": 0
+                        },
+                        {
+                            "_id": "60e2d8e8ffba8c17b469d596",
+                            "free_limit": 2,
+                            "name": "Огурец",
+                            "tax": 10,
+                            "article": "34325",
+                            "status": "active",
+                            "id": 125923,
+                            "price": 25,
+                            "total": 0
+                        }
+                    ],
+                    "article": "4693",
+                    "id": 21134
+                }
+            ],
+            "options_limits": [
+                {
+                    "_id": "60e2d8e8ffba8c17b469d597",
+                    "limit_type": "global",
+                    "min": 0,
+                    "rule_type": "kind",
+                    "entity_name": "ingredient",
+                    "max": 20
+                }
+            ],
+            "quantity": 1,
+            "selected_option_group": "21657V129382",
+            "selected_options": [
+                {
+                    "_id": "60e2d8e9ffba8c17b469d65e",
+                    "id": 21657,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d65f",
+                            "id": 129382,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "_id": "60e2d8e9ffba8c17b469d660",
+                    "id": 22156,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d661",
+                            "id": 136405,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "_id": "60e2d8e9ffba8c17b469d662",
+                    "id": 22627,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d663",
+                            "id": 139596,
+                            "quantity": 1
+                        }
+                    ]
+                },
+                {
+                    "_id": "60e2d8e9ffba8c17b469d664",
+                    "id": 21134,
+                    "values": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d665",
+                            "id": 125922,
+                            "quantity": 4
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d666",
+                            "id": 125924,
+                            "quantity": 1
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d667",
+                            "id": 125921,
+                            "quantity": 1
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d668",
+                            "id": 125923,
+                            "quantity": 2
+                        }
+                    ]
+                }
+            ],
+            "options_groups": [
+                {
+                    "_id": "60e2d8e9ffba8c17b469d669",
+                    "key": "21657V129382",
+                    "additionals": [
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d66a",
+                            "option_id": 21657,
+                            "variants": [
+                                {
+                                    "_id": "60e2d8e9ffba8c17b469d66b",
+                                    "variant_id": 129382,
+                                    "price": 0
+                                }
+                            ],
+                            "default_variant_id": 129382,
+                            "selection_required": false
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d66c",
+                            "option_id": 22156,
+                            "variants": [
+                                {
+                                    "_id": "60e2d8e9ffba8c17b469d66d",
+                                    "variant_id": 136405,
+                                    "price": 25,
+                                    "max_limit": 3
+                                }
+                            ],
+                            "default_variant_id": 136406,
+                            "selection_required": true
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d66e",
+                            "option_id": 22627,
+                            "variants": [
+                                {
+                                    "_id": "60e2d8e9ffba8c17b469d66f",
+                                    "variant_id": 139596,
+                                    "price": 35,
+                                    "max_limit": 4
+                                }
+                            ],
+                            "selection_required": false
+                        },
+                        {
+                            "_id": "60e2d8e9ffba8c17b469d670",
+                            "option_id": 21134,
+                            "variants": [
+                                {
+                                    "_id": "60e2d8e9ffba8c17b469d671",
+                                    "variant_id": 125922,
+                                    "price": 25,
+                                    "free_limit": 2,
+                                    "max_limit": 4
+                                },
+                                {
+                                    "_id": "60e2d8e9ffba8c17b469d672",
+                                    "variant_id": 125924,
+                                    "price": 25,
+                                    "free_limit": 2,
+                                    "max_limit": 4
+                                },
+                                {
+                                    "_id": "60e2d8e9ffba8c17b469d673",
+                                    "variant_id": 125921,
+                                    "price": 25,
+                                    "free_limit": 2,
+                                    "max_limit": 4
+                                },
+                                {
+                                    "_id": "60e2d8e9ffba8c17b469d674",
+                                    "variant_id": 125923,
+                                    "price": 25,
+                                    "free_limit": 2,
+                                    "max_limit": 4
+                                }
+                            ],
+                            "selection_required": false
+                        }
+                    ],
+                    "article": "1369470",
+                    "price": 540
+                }
+            ],
+            "meal_total": 650,
+            "total": 650,
+            "external_system_id": "60e2d8e8ffba8c17b469d58b",
+            "category": 7
+        }
+    ],
+    "partner_id": "1344084",
+    "date_create": "2021-07-05T10:03:21.505Z",
+    "shop_address": "Плещеева 15в",
+    "shop_relationship": "marketplace",
+    "date_delivery": "2021-07-05T10:58:21.459Z",
+    "status_updated_at": "2021-07-05T10:03:21.505Z",
+    "confirm_limit_date": "2021-07-05T10:08:21.490Z",
+    "date_ready_to_delivery": "2021-07-05T10:18:21.508Z",
+    "cutlery_count": 0,
+    "created_in_partner": true,
+    "is_external_integration": false
+}
+}

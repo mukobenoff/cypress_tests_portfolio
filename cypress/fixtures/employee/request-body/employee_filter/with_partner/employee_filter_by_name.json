@@ -1,0 +1,11 @@
+{
+	"nav": {
+		"page": 1,
+		"lpage": 20
+	},
+	"filters": {
+		"term": "Fraus",
+		"blocked": false
+	},
+	"partners": ["test"]
+}

@@ -1,0 +1,21 @@
+{
+	"user": {
+		"id": "5fd23b724cae25b12c576f96",
+		"phone": "3333333333",
+		"name": "Иванов",
+		"surname": "Иван",
+		"patronymic": "Иванович",
+		"email": "email@email.ru",
+		"city": "MSC",
+		"partners": [
+			{
+				"code": "test",
+				"name": "Тестовый партнер"
+			}
+		],
+		"roles": [
+			"owner"
+		],
+		"permissions": "0000000000000000333333000000000000000003"
+	}
+}

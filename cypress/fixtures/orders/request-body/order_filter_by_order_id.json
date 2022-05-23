@@ -1,0 +1,16 @@
+{
+	"nav": {
+		"page": 1,
+		"lpage": 40
+	},
+	"filters": {
+		"partner_id": "1344084",
+		"status": [
+			"delivered",
+			"done",
+			"returned",
+			"cancelled"
+		],
+		"shop": 632
+	}
+}

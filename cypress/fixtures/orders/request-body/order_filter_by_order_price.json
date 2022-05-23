@@ -1,0 +1,16 @@
+{
+	"nav": {
+		"page": 1,
+		"lpage": 40
+	},
+	"filters": {
+		"price": 223,
+		"status": [
+			"delivered",
+			"done",
+			"returned",
+			"cancelled"
+		],
+		"shop": 632
+	}
+}

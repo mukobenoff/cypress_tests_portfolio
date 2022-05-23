@@ -1,0 +1,328 @@
+{
+	"shops": [
+		{
+			"id": 632,
+			"address": "Москва, парк Лени",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": true,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 758,
+			"address": "!\"№\"№\"№\"№123",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 759,
+			"address": "Москва, проспект Лермонтова, 34",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.58924,
+				55.7330341
+			]
+		},
+		{
+			"id": 760,
+			"address": "Москва, парк Ленина",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 761,
+			"address": "Москва, парк Победы",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.591224,
+				55.735033
+			]
+		},
+		{
+			"id": 883,
+			"address": "Москва, Зеленоград",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				32.334,
+				54.34242
+			]
+		},
+		{
+			"id": 884,
+			"address": "Москва, Зеленоград",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				12.33434,
+				31.213113
+			]
+		},
+		{
+			"id": 894,
+			"address": "Москва, Зеленоград",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				12.1212,
+				21.1213331
+			]
+		},
+		{
+			"id": 990,
+			"address": "Москва, парк Победы",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.497153,
+				55.736022
+			]
+		},
+		{
+			"id": 991,
+			"address": "Москва, Парк Победы",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.497153,
+				55.736022
+			]
+		},
+		{
+			"id": 992,
+			"address": "парк Победы",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.497153,
+				55.736022
+			]
+		},
+		{
+			"id": 993,
+			"address": "парк Победы",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.497153,
+				55.736022
+			]
+		},
+		{
+			"id": 994,
+			"address": "Парк Победы",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.497153,
+				55.736022
+			]
+		},
+		{
+			"id": 995,
+			"address": "Ошибка у партнера",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.59085386459052,
+				55.70978781396981
+			]
+		},
+		{
+			"id": 996,
+			"address": "55.733578653849925, 37.62144235888138",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.62144235888138,
+				55.733578653849925
+			]
+		},
+		{
+			"id": 997,
+			"address": "55.734033, 37.590224",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 998,
+			"address": "55.734033, 37.590224",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 999,
+			"address": "55.734033, 37.590224",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 1000,
+			"address": "55.734033, 37.590224",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 1001,
+			"address": "55.709514271783135, 37.58090046565461",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.58090046565461,
+				55.709514271783135
+			]
+		},
+		{
+			"id": 1002,
+			"address": "55.709514271783135, 37.58090046565461",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.58090046565461,
+				55.709514271783135
+			]
+		},
+		{
+			"id": 1003,
+			"address": "55.73289521126889, 37.60105002935414",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.60105002935414,
+				55.73289521126889
+			]
+		},
+		{
+			"id": 1004,
+			"address": "55.72920441455908, 37.64620447330732",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.64620447330732,
+				55.72920441455908
+			]
+		},
+		{
+			"id": 1005,
+			"address": "55.71101873011012, 37.654701277277006",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.654701277277006,
+				55.71101873011012
+			]
+		},
+		{
+			"id": 1006,
+			"address": "55.71101873011012, 37.654701277277006",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.654701277277006,
+				55.71101873011012
+			]
+		},
+		{
+			"id": 1007,
+			"address": "Улица Пушкина дом колотушкина",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.528220281042564,
+				55.70185431298113
+			]
+		},
+		{
+			"id": 1014,
+			"address": "Малогородская, 12",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": true,
+			"partner": "test",
+			"position": [
+				38.979199,
+				55.803383
+			]
+		}
+	]
+}

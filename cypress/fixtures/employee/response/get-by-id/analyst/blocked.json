@@ -1,0 +1,34 @@
+{
+	"employee": {
+		"partners": [{
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test"
+		}],
+		"block_reason": {
+			"user": {
+				"id": "5fd23b724cae25b12c576f96",
+				"full_name": "Иванов Иван Иванович",
+				"type": "partner"
+			},
+			"text": ""
+		},
+		"shop": {
+			"id": 632,
+			"address": "Москва, парк Ленина"
+		},
+		"blocked": true,
+		"registered": "2021-02-26T14:09:59.105Z",
+		"permissions": "0000000000000000333330000000000000000000",
+		"roles": [
+			"analyst"
+		],
+		"default": true,
+		"surname": "Surname",
+		"name": "Name",
+		"patronymic": "",
+		"email": "cocoshka.o@x5test.ru",
+		"phone": "9996299160",
+		"city": "MSC",
+		"id": "603ca9c20d8a6d533efb7fe9"
+	}
+}

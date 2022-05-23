@@ -1,0 +1,9 @@
+{
+	"nav": { "page": 1, "lpage": 40 },
+	"filters": {
+		"date_start": "2021-07-06T00:00:00.000+03:00",
+		"date_end": "2021-07-06T23:59:59.999+03:00",
+		"status": ["delivered", "done", "returned", "cancelled"],
+		"shop": 632
+	}
+}

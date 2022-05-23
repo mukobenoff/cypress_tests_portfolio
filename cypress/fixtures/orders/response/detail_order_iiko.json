@@ -1,0 +1,121 @@
+{
+	"order": {
+		"id": 1847943,
+		"pay": {
+			"type": "card"
+		},
+		"city": "msk",
+		"shop": 11965,
+		"price": {
+			"products": 860,
+			"delivery": 0,
+			"total": 860
+		},
+		"client": {
+			"id": "610a9f745534762f61c779f5",
+			"name": "Иван",
+			"phone": "9087841941",
+			"email": "Ivan.Zamorin@x5.ru",
+			"device_id": "4eb21e9bcvm"
+		},
+		"weight": 0,
+		"status": "collecting",
+		"cancel": {},
+		"system_id": "61408b23da85711724b64553",
+		"comment": "&lt;&gt; Коммент &lt;&gt;",
+		"partner": {
+			"name": "iiko партнер (iikoBiz)",
+			"code": "iikobizpartner",
+			"integration_type": "iikobiz"
+		},
+		"address": {
+			"coords": {
+				"lat": 55.703063,
+				"lon": 37.711267
+			},
+			"options": {
+				"flat": "1"
+			},
+			"name": "Южнопортовая улица, 21с19"
+		},
+		"timezone": "Europe/Moscow",
+		"products": [
+			{
+				"sale": {
+					"data": {
+						"m": 0,
+						"n": 0,
+						"more": 0
+					},
+					"price": 0,
+					"type": ""
+				},
+				"options_total": 0,
+				"key_options": [],
+				"_id": "61408b23da85711724b64554",
+				"category": "142C6956",
+				"id": 1408183,
+				"type": "meal",
+				"article": "6bd20ee6-8d44-352e-0179-9da33de1732c",
+				"name": "Норвежский суп с лососем МЛ",
+				"tax": 0,
+				"weight": 0,
+				"boxsize": 1,
+				"price": 300,
+				"unchangeable_combo_composition": [],
+				"options": [],
+				"options_groups": [],
+				"options_limits": [],
+				"quantity": 1,
+				"selected_options": [],
+				"meal_total": 300,
+				"total": 300,
+				"external_system_id": "61408b1bd7eeff955c6eb1c4"
+			},
+			{
+				"sale": {
+					"data": {
+						"m": 0,
+						"n": 0,
+						"more": 0
+					},
+					"price": 0,
+					"type": ""
+				},
+				"options_total": 0,
+				"key_options": [],
+				"_id": "61408b23da85711724b64555",
+				"category": "142C7047",
+				"id": 1408184,
+				"type": "meal",
+				"article": "6bd20ee6-8d44-352e-0179-9da33de177cb",
+				"name": "Салат цезарь с опаленным лососем МЛ2",
+				"tax": 0,
+				"weight": 0,
+				"boxsize": 1,
+				"price": 560,
+				"unchangeable_combo_composition": [],
+				"options": [],
+				"options_groups": [],
+				"options_limits": [],
+				"quantity": 1,
+				"selected_options": [],
+				"meal_total": 560,
+				"total": 560,
+				"external_system_id": "61408b1bd7eeff955c6eb1c5"
+			}
+		],
+		"partner_id": "13e9d68b-7bdd-4fb0-9152-7c62374c0376",
+		"date_create": "2021-09-14T11:44:35.275Z",
+		"shop_address": "Красногорский б-р д. 26",
+		"shop_relationship": "marketplace",
+		"date_delivery": "2021-09-14T12:14:34.732Z",
+		"status_updated_at": "2021-09-14T11:44:54.409Z",
+		"confirm_limit_date": "2021-09-14T11:49:35.256Z",
+		"date_ready_to_delivery": "2021-09-14T11:54:35.277Z",
+		"cutlery_count": 0,
+		"created_in_partner": true,
+		"is_external_integration": true,
+		"is_courier_arrived": false
+	}
+}

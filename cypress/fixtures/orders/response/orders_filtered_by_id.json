@@ -1,0 +1,46 @@
+{
+	"orders": [
+			{
+					"id": 1998559,
+					"pay": {
+							"type": "card"
+					},
+					"city": "msk",
+					"price": {
+							"products": 1320,
+							"delivery": 99,
+							"total": 1419
+					},
+					"system_id": "60e2d9130cabc70ddac2157c",
+					"weight": 0.8,
+					"status": "ready_to_delivery",
+					"cancel": {},
+					"comment": "",
+					"address": {
+							"coords": {
+									"lat": 55.77238,
+									"lon": 37.727688
+							},
+							"options": {
+									"flat": "3"
+							},
+							"name": "проспект Будённого, 21с3"
+					},
+					"partner": {
+							"name": "Калмыцкий ресторан \"У Олежки\"",
+							"code": "kalmyk1"
+					},
+					"partner_id": "1998559",
+					"date_create": "2021-07-05T10:04:03.865Z",
+					"shop_relationship": "marketplace",
+					"date_delivery": "2021-07-05T10:59:03.836Z",
+					"status_updated_at": "2021-07-05T10:04:14.524Z",
+					"confirm_limit_date": "2021-07-05T10:09:03.855Z",
+					"date_ready_to_delivery": "2021-07-05T10:19:03.866Z",
+					"created_in_partner": true,
+					"is_external_integration": false
+			}
+	],
+	"next_page": false,
+	"total": 1
+}

@@ -1,0 +1,28 @@
+{
+	"user": {
+		"id": "60c374c365e20a6f4b3652b7",
+		"phone": "9999991133",
+		"name": "Оператор",
+		"surname": "Беликов",
+		"patronymic": "Иванович",
+		"email": "some@mail.ru",
+		"city": "MSC",
+		"partners": [
+			{
+				"_id": "60c374c365e20a6f4b3652b8",
+				"name": "Покешная «Угорь Игорь»",
+				"code": "test"
+			},
+			{
+				"_id": "60c374c365e20a6f4b3652b9",
+				"name": "Тестовый партнер",
+				"code": "test-denis"
+			}
+		],
+		"roles": [
+			"multiowner"
+		],
+		"permissions": "0000000000000000333333000000000000000003",
+		"shop": {}
+	}
+}

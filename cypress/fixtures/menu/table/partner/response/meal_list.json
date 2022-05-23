@@ -1,0 +1,1126 @@
+{
+	"products": [
+			{
+					"_id": "613f1f1ac2b72678e1521c15",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "disabled",
+					"photos": {
+							"additional": [],
+							"_id": "613f1f1ac2b72678e1521c17",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1f1ac2b72678e1521c16",
+							"calories": 24,
+							"proteins": 6,
+							"fats": 4,
+							"carbohydrates": 12
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1f1ac2b72678e1521c13"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7420"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1f1ac2b72678e1521c18"
+					},
+					"name": "Мужской мундир",
+					"description": "",
+					"article": "",
+					"tax": 10,
+					"weight": 400,
+					"available_option_variants": [],
+					"product_type": "meal",
+					"options_limits": [],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1f1ac2b72678e1521c19",
+									"id": 122245,
+									"category_id": "169C7420",
+									"position": 7
+							}
+					],
+					"created_at": "2021-09-13T09:51:22.156Z",
+					"updated_at": "2021-09-13T13:57:22.737Z",
+					"id": 1416745,
+					"is_returnable": false,
+					"__v": 0,
+					"active_task_group": {
+							"status": "finished",
+							"author_notified": false,
+							"_id": "613f1f28c2b72678e1521c23",
+							"object_belonging": "partner",
+							"object_type": "product",
+							"object_id": 1416745,
+							"author_type": "b2b",
+							"created_at": "2021-09-13T13:57:22.715Z",
+							"updated_at": "2021-09-13T13:57:22.715Z",
+							"id": 209663,
+							"__v": 0,
+							"resolver_details": {
+									"status": "active",
+									"_id": "60239a0eceba91e52a5c5d58",
+									"name": "Евгений",
+									"surname": "Беликов",
+									"phone": "9256273844",
+									"patronymic": "",
+									"role": "admin"
+							},
+							"resolver_id": "60239a0eceba91e52a5c5d58",
+							"resolver_type": "content_moderator",
+							"finished_status": "approved"
+					},
+					"price": 200,
+					"receipt_price": 200
+			},
+			{
+					"_id": "613f1efac2b72678e1521c0b",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "draft",
+					"photos": {
+							"additional": [],
+							"_id": "613f1efac2b72678e1521c0d",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1efac2b72678e1521c0c"
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1efac2b72678e1521c09"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7420"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1efac2b72678e1521c0e"
+					},
+					"name": "С ананасом",
+					"description": "",
+					"article": "",
+					"tax": 20,
+					"weight": 300,
+					"available_option_variants": [],
+					"product_type": "meal",
+					"options_limits": [],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1efac2b72678e1521c0f",
+									"id": 122244,
+									"category_id": "169C7420",
+									"position": 6
+							}
+					],
+					"created_at": "2021-09-13T09:50:50.481Z",
+					"updated_at": "2021-09-13T09:50:50.481Z",
+					"id": 1416744,
+					"is_returnable": false,
+					"__v": 0,
+					"price": 240,
+					"receipt_price": 240
+			},
+			{
+					"_id": "613f1ed0c2b72678e1521be8",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "draft",
+					"photos": {
+							"additional": [],
+							"_id": "613f1ed0c2b72678e1521bee",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1ed0c2b72678e1521bed"
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1ed0c2b72678e1521be6"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7420"
+					],
+					"key_options": [
+							48302
+					],
+					"service_fields": {
+							"_id": "613f1ed0c2b72678e1521bef"
+					},
+					"name": "Оливье",
+					"description": "",
+					"article": "",
+					"tax": 10,
+					"weight": 0,
+					"volume": 0,
+					"available_option_variants": [
+							{
+									"selection_required": false,
+									"_id": "613f1edac2b72678e1521bfa",
+									"default_variant_id": 306688,
+									"id": 86000,
+									"option_id": 48302,
+									"variants": [
+											{
+													"_id": "613f1edac2b72678e1521bfb",
+													"variant_id": 306689,
+													"id": 1285809,
+													"price": 0,
+													"receipt_price": 0
+											},
+											{
+													"_id": "613f1edac2b72678e1521bfc",
+													"variant_id": 306688,
+													"id": 1285810,
+													"price": 0,
+													"receipt_price": 0
+											},
+											{
+													"_id": "613f1edac2b72678e1521bfd",
+													"variant_id": 306687,
+													"id": 1285812,
+													"price": 0,
+													"receipt_price": 0
+											}
+									]
+							}
+					],
+					"product_type": "complex_meal",
+					"options_limits": [],
+					"option_groups": [
+							{
+									"status": "active",
+									"nutrition_facts": {
+											"_id": "613f1edac2b72678e1521c00"
+									},
+									"_id": "613f1edac2b72678e1521bff",
+									"weight": 0,
+									"additionals": [
+											{
+													"selection_required": false,
+													"_id": "613f1edac2b72678e1521c01",
+													"option_id": 48302,
+													"variants": [
+															{
+																	"_id": "613f1edac2b72678e1521c02",
+																	"variant_id": 306689,
+																	"id": 1285813,
+																	"price": 0,
+																	"receipt_price": 0
+															},
+															{
+																	"_id": "613f1edac2b72678e1521c03",
+																	"variant_id": 306688,
+																	"id": 1285814,
+																	"price": 0,
+																	"receipt_price": 0
+															},
+															{
+																	"_id": "613f1edac2b72678e1521c04",
+																	"variant_id": 306687,
+																	"id": 1285811,
+																	"price": 0,
+																	"receipt_price": 0
+															}
+													],
+													"default_variant_id": 306688,
+													"id": 198889
+											}
+									],
+									"key": "48302V306688",
+									"id": 51631,
+									"price": 500,
+									"receipt_price": 500
+							}
+					],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1ed0c2b72678e1521bf0",
+									"id": 122243,
+									"category_id": "169C7420",
+									"position": 5
+							}
+					],
+					"created_at": "2021-09-13T09:50:08.853Z",
+					"updated_at": "2021-09-13T09:50:18.827Z",
+					"id": 1416743,
+					"is_returnable": false,
+					"__v": 1,
+					"default_option_group_key": "48302V306688",
+					"price": 0,
+					"receipt_price": 0
+			},
+			{
+					"_id": "613f1eb4c2b72678e1521bda",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "active",
+					"photos": {
+							"additional": [],
+							"_id": "613f1eb4c2b72678e1521be0",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1eb4c2b72678e1521bdf"
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1eb4c2b72678e1521bd8"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7420"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1eb4c2b72678e1521be1"
+					},
+					"name": "Мимоза",
+					"description": "",
+					"article": "",
+					"tax": 10,
+					"weight": 200,
+					"available_option_variants": [
+							{
+									"selection_required": false,
+									"_id": "613f1eb4c2b72678e1521bdb",
+									"option_id": 48302,
+									"variants": [
+											{
+													"_id": "613f1eb4c2b72678e1521bdc",
+													"variant_id": 306689,
+													"max_limit": 1,
+													"id": 1285804,
+													"price": 100,
+													"receipt_price": 100
+											},
+											{
+													"_id": "613f1eb4c2b72678e1521bdd",
+													"variant_id": 306688,
+													"max_limit": 1,
+													"id": 1285805,
+													"price": 200,
+													"receipt_price": 200
+											},
+											{
+													"_id": "613f1eb4c2b72678e1521bde",
+													"variant_id": 306687,
+													"max_limit": 1,
+													"id": 1285803,
+													"price": 300,
+													"receipt_price": 300
+											}
+									],
+									"id": 85999
+							}
+					],
+					"product_type": "meal",
+					"options_limits": [],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1eb4c2b72678e1521be2",
+									"id": 122242,
+									"category_id": "169C7420",
+									"position": 4
+							}
+					],
+					"created_at": "2021-09-13T09:49:40.138Z",
+					"updated_at": "2021-09-13T13:45:06.741Z",
+					"id": 1416742,
+					"is_returnable": false,
+					"__v": 0,
+					"active_task_group": {
+							"status": "finished",
+							"author_notified": false,
+							"_id": "613f1f2ac2b72678e1521c42",
+							"object_belonging": "partner",
+							"object_type": "product",
+							"object_id": 1416742,
+							"author_type": "b2b",
+							"created_at": "2021-09-13T13:45:06.741Z",
+							"updated_at": "2021-09-13T13:45:06.741Z",
+							"id": 209664,
+							"__v": 0,
+							"resolver_details": {
+									"status": "active",
+									"_id": "60239a0eceba91e52a5c5d58",
+									"name": "Евгений",
+									"surname": "Беликов",
+									"phone": "9256273844",
+									"patronymic": "",
+									"role": "admin"
+							},
+							"resolver_id": "60239a0eceba91e52a5c5d58",
+							"resolver_type": "content_moderator",
+							"finished_status": "approved"
+					},
+					"price": 400,
+					"receipt_price": 400
+			},
+			{
+					"_id": "613f1e9cc2b72678e1521bc7",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "active",
+					"photos": {
+							"additional": [],
+							"_id": "613f1e9cc2b72678e1521bd2",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1e9cc2b72678e1521bd1"
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1e9cc2b72678e1521bc5"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7420"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1e9cc2b72678e1521bd3"
+					},
+					"name": "Цезарь с креветками",
+					"description": "",
+					"article": "",
+					"tax": 10,
+					"weight": 600,
+					"available_option_variants": [
+							{
+									"selection_required": false,
+									"_id": "613f1e9cc2b72678e1521bc8",
+									"option_id": 48302,
+									"variants": [
+											{
+													"_id": "613f1e9cc2b72678e1521bc9",
+													"variant_id": 306689,
+													"max_limit": 1,
+													"id": 1285797,
+													"price": 100,
+													"receipt_price": 100
+											},
+											{
+													"_id": "613f1e9cc2b72678e1521bca",
+													"variant_id": 306688,
+													"max_limit": 1,
+													"id": 1285800,
+													"price": 200,
+													"receipt_price": 200
+											},
+											{
+													"_id": "613f1e9cc2b72678e1521bcb",
+													"variant_id": 306687,
+													"max_limit": 1,
+													"id": 1285801,
+													"price": 300,
+													"receipt_price": 300
+											}
+									],
+									"id": 85997
+							},
+							{
+									"selection_required": false,
+									"_id": "613f1e9cc2b72678e1521bcc",
+									"option_id": 48303,
+									"variants": [
+											{
+													"_id": "613f1e9cc2b72678e1521bcd",
+													"variant_id": 306691,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285798,
+													"price": 20,
+													"receipt_price": 20
+											},
+											{
+													"_id": "613f1e9cc2b72678e1521bce",
+													"variant_id": 306690,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285799,
+													"price": 20,
+													"receipt_price": 20
+											},
+											{
+													"_id": "613f1e9cc2b72678e1521bcf",
+													"variant_id": 306692,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285802,
+													"price": 20,
+													"receipt_price": 20
+											}
+									],
+									"id": 85998
+							}
+					],
+					"product_type": "meal",
+					"options_limits": [
+							{
+									"min": 0,
+									"_id": "613f1e9cc2b72678e1521bd0",
+									"rule_type": "kind",
+									"entity_name": "ingredient",
+									"limit_type": "global",
+									"max": 33,
+									"id": 14767
+							}
+					],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1e9cc2b72678e1521bd4",
+									"id": 122241,
+									"category_id": "169C7420",
+									"position": 3
+							}
+					],
+					"created_at": "2021-09-13T09:49:16.477Z",
+					"updated_at": "2021-09-13T13:45:10.018Z",
+					"id": 1416741,
+					"is_returnable": false,
+					"__v": 0,
+					"active_task_group": {
+							"status": "finished",
+							"author_notified": false,
+							"_id": "613f1f2fc2b72678e1521c80",
+							"object_belonging": "partner",
+							"object_type": "product",
+							"object_id": 1416741,
+							"author_type": "b2b",
+							"created_at": "2021-09-13T13:45:10.018Z",
+							"updated_at": "2021-09-13T13:45:10.018Z",
+							"id": 209666,
+							"__v": 0,
+							"resolver_details": {
+									"status": "active",
+									"_id": "60239a0eceba91e52a5c5d58",
+									"name": "Евгений",
+									"surname": "Беликов",
+									"phone": "9256273844",
+									"patronymic": "",
+									"role": "admin"
+							},
+							"resolver_id": "60239a0eceba91e52a5c5d58",
+							"resolver_type": "content_moderator",
+							"finished_status": "approved"
+					},
+					"price": 300,
+					"receipt_price": 300
+			},
+			{
+					"_id": "613f1e81c2b72678e1521bb9",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "fix_required",
+					"photos": {
+							"additional": [],
+							"_id": "613f1e81c2b72678e1521bbf",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1e81c2b72678e1521bbe"
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1e81c2b72678e1521bb7"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7420"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1e81c2b72678e1521bc0"
+					},
+					"name": "селедка под шубой",
+					"description": "",
+					"article": "",
+					"tax": 20,
+					"weight": 222,
+					"available_option_variants": [
+							{
+									"selection_required": false,
+									"_id": "613f1e81c2b72678e1521bba",
+									"option_id": 48302,
+									"variants": [
+											{
+													"_id": "613f1e81c2b72678e1521bbb",
+													"variant_id": 306689,
+													"max_limit": 1,
+													"id": 1285796,
+													"price": 100,
+													"receipt_price": 100
+											},
+											{
+													"_id": "613f1e81c2b72678e1521bbc",
+													"variant_id": 306688,
+													"max_limit": 1,
+													"id": 1285794,
+													"price": 200,
+													"receipt_price": 200
+											},
+											{
+													"_id": "613f1e81c2b72678e1521bbd",
+													"variant_id": 306687,
+													"max_limit": 1,
+													"id": 1285795,
+													"price": 300,
+													"receipt_price": 300
+											}
+									],
+									"id": 85996
+							}
+					],
+					"product_type": "meal",
+					"options_limits": [],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1e81c2b72678e1521bc1",
+									"id": 122240,
+									"category_id": "169C7420",
+									"position": 2
+							}
+					],
+					"created_at": "2021-09-13T09:48:49.901Z",
+					"updated_at": "2021-09-13T13:45:19.067Z",
+					"id": 1416740,
+					"is_returnable": false,
+					"__v": 0,
+					"active_task_group": {
+							"status": "finished",
+							"author_notified": false,
+							"_id": "613f1f2cc2b72678e1521c61",
+							"object_belonging": "partner",
+							"object_type": "product",
+							"object_id": 1416740,
+							"author_type": "b2b",
+							"created_at": "2021-09-13T13:45:19.067Z",
+							"updated_at": "2021-09-13T13:45:19.067Z",
+							"id": 209665,
+							"__v": 0,
+							"resolver_details": {
+									"status": "active",
+									"_id": "60239a0eceba91e52a5c5d58",
+									"name": "Евгений",
+									"surname": "Беликов",
+									"phone": "9256273844",
+									"patronymic": "",
+									"role": "admin"
+							},
+							"resolver_id": "60239a0eceba91e52a5c5d58",
+							"resolver_type": "content_moderator",
+							"finished_status": "declined",
+							"moderator_comment": "sadfa"
+					},
+					"price": 123,
+					"receipt_price": 123
+			},
+			{
+					"_id": "613f1e65c2b72678e1521bab",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "draft",
+					"photos": {
+							"additional": [],
+							"_id": "613f1e65c2b72678e1521bb1",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1e65c2b72678e1521bb0"
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1e65c2b72678e1521ba9"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7420"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1e65c2b72678e1521bb2"
+					},
+					"name": "Цезарь",
+					"description": "",
+					"article": "",
+					"tax": 20,
+					"weight": 233,
+					"available_option_variants": [
+							{
+									"selection_required": false,
+									"_id": "613f1e65c2b72678e1521bac",
+									"option_id": 48302,
+									"variants": [
+											{
+													"_id": "613f1e65c2b72678e1521bad",
+													"variant_id": 306689,
+													"max_limit": 1,
+													"id": 1285793,
+													"price": 100,
+													"receipt_price": 100
+											},
+											{
+													"_id": "613f1e65c2b72678e1521bae",
+													"variant_id": 306688,
+													"max_limit": 1,
+													"id": 1285792,
+													"price": 200,
+													"receipt_price": 200
+											},
+											{
+													"_id": "613f1e65c2b72678e1521baf",
+													"variant_id": 306687,
+													"max_limit": 1,
+													"id": 1285791,
+													"price": 300,
+													"receipt_price": 300
+											}
+									],
+									"id": 85995
+							}
+					],
+					"product_type": "meal",
+					"options_limits": [],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1e65c2b72678e1521bb3",
+									"id": 122239,
+									"category_id": "169C7420",
+									"position": 1
+							}
+					],
+					"created_at": "2021-09-13T09:48:21.463Z",
+					"updated_at": "2021-09-13T09:48:21.463Z",
+					"id": 1416739,
+					"is_returnable": false,
+					"__v": 0,
+					"price": 222,
+					"receipt_price": 222
+			},
+			{
+					"_id": "613f1e4cc2b72678e1521b98",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "moderation",
+					"photos": {
+							"additional": [],
+							"_id": "613f1e4cc2b72678e1521ba3",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1e4cc2b72678e1521ba2",
+							"calories": 112,
+							"proteins": 3,
+							"fats": 1,
+							"carbohydrates": 42
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1e4cc2b72678e1521b96"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7418"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1e4cc2b72678e1521ba4"
+					},
+					"name": "Индейка",
+					"description": "",
+					"article": "",
+					"tax": 10,
+					"weight": 1000,
+					"available_option_variants": [
+							{
+									"selection_required": false,
+									"_id": "613f1e4cc2b72678e1521b99",
+									"option_id": 48302,
+									"variants": [
+											{
+													"_id": "613f1e4cc2b72678e1521b9a",
+													"variant_id": 306689,
+													"max_limit": 1,
+													"id": 1285785,
+													"price": 100,
+													"receipt_price": 100
+											},
+											{
+													"_id": "613f1e4cc2b72678e1521b9b",
+													"variant_id": 306688,
+													"max_limit": 1,
+													"id": 1285787,
+													"price": 200,
+													"receipt_price": 200
+											},
+											{
+													"_id": "613f1e4cc2b72678e1521b9c",
+													"variant_id": 306687,
+													"max_limit": 1,
+													"id": 1285786,
+													"price": 300,
+													"receipt_price": 300
+											}
+									],
+									"id": 85993
+							},
+							{
+									"selection_required": false,
+									"_id": "613f1e4cc2b72678e1521b9d",
+									"option_id": 48303,
+									"variants": [
+											{
+													"_id": "613f1e4cc2b72678e1521b9e",
+													"variant_id": 306691,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285789,
+													"price": 20,
+													"receipt_price": 20
+											},
+											{
+													"_id": "613f1e4cc2b72678e1521b9f",
+													"variant_id": 306690,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285790,
+													"price": 20,
+													"receipt_price": 20
+											},
+											{
+													"_id": "613f1e4cc2b72678e1521ba0",
+													"variant_id": 306692,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285788,
+													"price": 20,
+													"receipt_price": 20
+											}
+									],
+									"id": 85994
+							}
+					],
+					"product_type": "meal",
+					"options_limits": [
+							{
+									"min": 0,
+									"_id": "613f1e4cc2b72678e1521ba1",
+									"rule_type": "kind",
+									"entity_name": "ingredient",
+									"limit_type": "global",
+									"max": 6,
+									"id": 14766
+							}
+					],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1e4cc2b72678e1521ba5",
+									"id": 122238,
+									"category_id": "169C7418",
+									"position": 3
+							}
+					],
+					"created_at": "2021-09-13T09:47:56.132Z",
+					"updated_at": "2021-09-13T09:51:46.494Z",
+					"id": 1416738,
+					"is_returnable": false,
+					"__v": 0,
+					"active_task_group": {
+							"status": "pending",
+							"author_notified": false,
+							"_id": "613f1f32c2b72678e1521c9f",
+							"object_belonging": "partner",
+							"object_type": "product",
+							"object_id": 1416738,
+							"author_type": "b2b",
+							"created_at": "2021-09-13T09:51:46.478Z",
+							"updated_at": "2021-09-13T09:51:46.478Z",
+							"id": 209667,
+							"__v": 0
+					},
+					"last_task_created_at": "2021-09-13T09:51:46.448Z",
+					"price": 1000,
+					"receipt_price": 1000
+			},
+			{
+					"_id": "613f1e20c2b72678e1521b85",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "draft",
+					"photos": {
+							"additional": [],
+							"_id": "613f1e20c2b72678e1521b90",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1e20c2b72678e1521b8f"
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1e20c2b72678e1521b83"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7418"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1e20c2b72678e1521b91"
+					},
+					"name": "Обычная утка",
+					"description": "",
+					"article": "",
+					"tax": 20,
+					"weight": 400,
+					"available_option_variants": [
+							{
+									"selection_required": true,
+									"_id": "613f1e20c2b72678e1521b86",
+									"default_variant_id": 306688,
+									"option_id": 48302,
+									"variants": [
+											{
+													"_id": "613f1e20c2b72678e1521b87",
+													"variant_id": 306689,
+													"max_limit": 1,
+													"id": 1285783,
+													"price": 100,
+													"receipt_price": 100
+											},
+											{
+													"_id": "613f1e20c2b72678e1521b88",
+													"variant_id": 306688,
+													"max_limit": 1,
+													"id": 1285780,
+													"price": 200,
+													"receipt_price": 200
+											},
+											{
+													"_id": "613f1e20c2b72678e1521b89",
+													"variant_id": 306687,
+													"max_limit": 1,
+													"id": 1285781,
+													"price": 300,
+													"receipt_price": 300
+											}
+									],
+									"id": 85991
+							},
+							{
+									"selection_required": false,
+									"_id": "613f1e20c2b72678e1521b8a",
+									"option_id": 48303,
+									"variants": [
+											{
+													"_id": "613f1e20c2b72678e1521b8b",
+													"variant_id": 306691,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285782,
+													"price": 20,
+													"receipt_price": 20
+											},
+											{
+													"_id": "613f1e20c2b72678e1521b8c",
+													"variant_id": 306690,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285779,
+													"price": 20,
+													"receipt_price": 20
+											},
+											{
+													"_id": "613f1e20c2b72678e1521b8d",
+													"variant_id": 306692,
+													"max_limit": 1,
+													"free_limit": 1,
+													"id": 1285784,
+													"price": 20,
+													"receipt_price": 20
+											}
+									],
+									"id": 85992
+							}
+					],
+					"product_type": "meal",
+					"options_limits": [
+							{
+									"min": 0,
+									"_id": "613f1e20c2b72678e1521b8e",
+									"rule_type": "kind",
+									"entity_name": "ingredient",
+									"limit_type": "global",
+									"max": 20,
+									"id": 14765
+							}
+					],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1e21c2b72678e1521b92",
+									"id": 122237,
+									"category_id": "169C7418",
+									"position": 2
+							}
+					],
+					"created_at": "2021-09-13T09:47:12.986Z",
+					"updated_at": "2021-09-13T09:47:12.986Z",
+					"id": 1416737,
+					"is_returnable": false,
+					"__v": 0,
+					"price": 500,
+					"receipt_price": 500
+			},
+			{
+					"_id": "613f1d8cc2b72678e1521b73",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "draft",
+					"photos": {
+							"additional": [],
+							"_id": "613f1d8cc2b72678e1521b75",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "613f1d8cc2b72678e1521b74",
+							"calories": 33,
+							"proteins": 33,
+							"fats": 22,
+							"carbohydrates": 1
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "613f1d8cc2b72678e1521b71"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"169C7418"
+					],
+					"key_options": [],
+					"service_fields": {
+							"_id": "613f1d8cc2b72678e1521b76"
+					},
+					"name": "Утка по пекински",
+					"description": "Очеь вкусни",
+					"article": "",
+					"tax": 10,
+					"weight": 400,
+					"available_option_variants": [],
+					"product_type": "meal",
+					"options_limits": [],
+					"option_groups": [],
+					"unchangeable_combo_composition": [],
+					"partner": "213f",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "613f1d8cc2b72678e1521b77",
+									"id": 122236,
+									"category_id": "169C7418",
+									"position": 1
+							}
+					],
+					"created_at": "2021-09-13T09:44:44.559Z",
+					"updated_at": "2021-09-13T09:44:44.559Z",
+					"id": 1416736,
+					"is_returnable": false,
+					"__v": 0,
+					"price": 200,
+					"receipt_price": 200
+			}
+	],
+	"total": 78
+}

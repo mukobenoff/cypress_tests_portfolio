@@ -1,0 +1,26 @@
+{
+	"user": {
+		"blocked": false,
+		"permissions": "0000000000000000000000000000000000000000",
+		"roles": [
+			"owner"
+		],
+		"default": false,
+		"surname": "Фраус",
+		"name": "Микки",
+		"patronymic": "Unused",
+		"email": "test@test.test",
+		"phone": "9998887766",
+		"city": "MSC",
+		"shop": {
+			"id": 632,
+			"address": "Москва, парк Победы"
+		},
+		"partners": [{
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test"
+		}],
+		"registered": "2021-03-15T07:50:04.241Z",
+		"id": "604f11acd8c69f098425911a"
+	}
+}

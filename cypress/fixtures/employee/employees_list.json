@@ -1,0 +1,460 @@
+{
+	"employees": [
+		{
+			"partners": [
+				{
+					"_id": "60c374c365e20a6f4b3652b8",
+					"name": "Покешная «Угорь Игорь»",
+					"code": "test"
+				},
+				{
+					"_id": "60c374c365e20a6f4b3652b9",
+					"name": "Тестовый партнер",
+					"code": "test-denis"
+				}
+			],
+			"id": "60c374c365e20a6f4b3652b7",
+			"name": "Оператор",
+			"surname": "Беликов",
+			"patronymic": "Иванович",
+			"phone": "9999991133",
+			"email": "some@mail.ru",
+			"blocked": false,
+			"city": "MSC",
+			"roles": [
+				"multiowner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60c20ea799d571427d83dede",
+			"name": "Денни",
+			"surname": "Ворсноп",
+			"patronymic": "Владимирович",
+			"phone": "9876661488",
+		"email": "worsnop.x5@aa.com",
+			"blocked": false,
+			"city": "MSC",
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60c2034d99d571427d83ded7",
+			"name": "test",
+			"surname": "tets",
+			"patronymic": "test",
+			"phone": "9992222211",
+			"email": "test@yaf.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Лени"
+			},
+			"roles": [
+				"manager"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60b8e87821e0b09aaf479ad5",
+			"name": "Игорь",
+			"surname": "Шаповал",
+			"patronymic": "Михайлович",
+			"phone": "9631237766",
+			"email": "shapoval.i@list.by",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Лени"
+			},
+			"roles": [
+				"manager"
+			]
+		},
+		{
+			"partners": [
+				{
+					"_id": "60b0a86990e2315d530e30e4",
+					"name": "Покешная «Угорь Игорь»",
+					"code": "test"
+				}
+			],
+			"id": "60b0a86990e2315d530e30e3",
+			"name": "Тест",
+			"surname": "Тестовый",
+			"patronymic": "тестович",
+			"phone": "9923333333",
+			"email": "sdfsdf@mial.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Лени"
+			},
+			"roles": [
+				"manager"
+			]
+		},
+		{
+			"partners": [
+				{
+					"_id": "60d1ec554f07e5621bcd0018",
+					"name": "Покешная «Угорь Игорь»",
+					"code": "test"
+				},
+				{
+					"_id": "60d1ec554f07e5621bcd0019",
+					"name": "Для фронта (НЕ ТРОГАТЬ)",
+					"code": "frontendtests"
+				}
+			],
+			"id": "60afaa6590e2315d530e3025",
+			"name": "Айнур",
+			"surname": "Нурисламов",
+			"patronymic": "Булатович",
+			"phone": "9663336644",
+			"email": "nur_ainur@ufa.bash",
+			"blocked": false,
+			"city": "MSC",
+			"roles": [
+				"multiowner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60ad0c57daeb9f5026b5088f",
+			"name": "Дуэйн",
+			"surname": "Джонсон",
+			"patronymic": "Рокович",
+			"phone": "4411233212",
+			"email": "rock_johnson@list.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Лени"
+			},
+			"roles": [
+				"manager"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60accd557b9c3da02a670440",
+			"name": "Олеся",
+			"surname": "Ананьева",
+			"patronymic": "",
+			"phone": "9777240284",
+			"email": "ololoo@rambler.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Ленина"
+			},
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60accc1ff55017ad5d574b91",
+			"name": "Паша",
+			"surname": "Семёнов",
+			"phone": "9126451159",
+			"email": "sempasha@gmail.com",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 883,
+				"address": "Москва, Зеленоград"
+			},
+			"roles": [
+				"analyst"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60a508c289c0d84ade15cbcf",
+			"name": "DAS",
+			"surname": "asfAF",
+			"patronymic": "dada",
+			"phone": "6565656565",
+			"email": "123@123.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Лени"
+			},
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60a504b689c0d84ade15cbce",
+			"name": "123",
+			"surname": "123",
+			"patronymic": "123",
+			"phone": "1233211233",
+			"email": "test@test.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 733,
+				"address": "Алешкинский лес"
+			},
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60a27c32197b182f4d4cab2f",
+			"name": "фывафыва",
+			"surname": "еуыеыуаф",
+			"patronymic": "фывафывафыва",
+			"phone": "9252342342",
+			"email": "199234@asdmf.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 760,
+				"address": "Москва, парк Ленина"
+			},
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "609e2d56ecfe0135b1e2c2e2",
+			"name": "Леха",
+			"surname": "Леха",
+			"patronymic": "Леха",
+			"phone": "9654123912",
+			"email": "algost96@mai.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Ленинафывфывфывфывфывфывфывфыв"
+			},
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "609b9857ed0aa36cccec4797",
+			"name": "Иван",
+			"surname": "Иванов",
+			"patronymic": "Иванович",
+			"phone": "2313131133",
+			"email": "rh@nf.rk",
+			"blocked": false,
+			"city": "MSC",
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "609a8947311eb14ebbe2cd97",
+			"name": "Имейл",
+			"surname": "Проверка",
+			"patronymic": "Имейлович",
+			"phone": "9871236547",
+			"email": "1996zhek@mail.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Ленинафывфывфывфывфывфывфывфыв"
+			},
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "609519451b2624562c1e1c6a",
+			"name": "Паша",
+			"surname": "Семёнов",
+			"phone": "9126451159",
+			"email": "sempasha@gmail.com",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 883,
+				"address": "Москва, Зеленоград"
+			},
+			"roles": [
+				"analyst"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "608aacc9b6ebba5a9808f1f6",
+			"name": "Паша",
+			"surname": "Семёнов",
+			"phone": "9000000000",
+			"email": "pave.semenov1@x5.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 883,
+				"address": "Москва, Зеленоград"
+			},
+			"roles": [
+				"analyst"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "6087f623eed5b5893518ba97",
+			"name": "авпап",
+			"surname": "павпавп",
+			"patronymic": "авпа",
+			"phone": "3232432433",
+			"email": "fgfd@gfd324.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 883,
+				"address": "Москва, Зеленоград"
+			},
+			"roles": [
+				"analyst"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60759feee51e6c4e458a59a2",
+			"name": "aaaa1",
+			"surname": "aaaaa1",
+			"patronymic": "aaaa1",
+			"phone": "0909090909",
+			"email": "ab@ab.ab",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Ленина"
+			},
+			"roles": [
+				"owner"
+			]
+		},
+		{
+			"partners": [
+				{
+					"code": "test",
+					"name": "Покешная «Угорь Игорь»"
+				}
+			],
+			"id": "60746f5440b7003e405f7ba1",
+			"name": "Радачинский",
+			"surname": "Иван",
+			"patronymic": "",
+			"phone": "9871111111",
+			"email": "radach@gshmail.ru",
+			"blocked": false,
+			"city": "MSC",
+			"shop": {
+				"id": 632,
+				"address": "Москва, парк Лени"
+			},
+			"roles": [
+				"supporter"
+			]
+		}
+	],
+	"next_page": true,
+	"total": 48
+}

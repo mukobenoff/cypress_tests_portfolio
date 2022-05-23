@@ -1,0 +1,14 @@
+{
+	"filters": {
+		"status": [
+			"created",
+			"collecting",
+			"ready_to_delivery",
+			"delivery"
+		]
+	},
+	"nav": {
+		"lpage": 100,
+		"page": 1
+	}
+}

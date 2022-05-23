@@ -1,0 +1,15 @@
+{
+	"surname": "test",
+	"name": "multiowner",
+	"patronymic": "Unused",
+	"email": "test@test.test",
+	"phone": "0000000000",
+	"city": "MSC",
+	"roles": [
+			"multiowner"
+	],
+	"shop": 0,
+	"partners": [
+			"test"
+	]
+}

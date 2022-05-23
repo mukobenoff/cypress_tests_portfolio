@@ -1,0 +1,209 @@
+{
+	"order": {
+		"id": 10776169,
+		"pay": {
+			"type": "card"
+		},
+		"city": "msk",
+		"shop": 1068,
+		"price": {
+			"products": 200,
+			"total": 200
+		},
+		"client": {
+			"id": "5f6c65b02ee4cb71c3dd0479",
+			"name": "Олег Мукобенов",
+			"phone": "9686364935",
+			"email": "oleg.mukobenov@x5.ru",
+			"device_id": "h33hc58b1xo"
+		},
+		"weight": 0.05,
+		"status": "delivered",
+		"cancel": {},
+		"system_id": "618152983acfd94710b87a77",
+		"comment": "Отображаю этот комментарий в b2b",
+		"partner": {
+			"name": "Песнь льда и пламени (Иван Заморин)",
+			"code": "w66666",
+			"integration_type": "b2b"
+		},
+		"address": {
+			"coords": {
+				"lat": 55.429599,
+				"lon": 37.52192
+			},
+			"options": {
+				"flat": "211",
+				"entrance": "1",
+				"floor": "2",
+				"domofon": "3434"
+			},
+			"name": "Россия, Московская область, Подольск, улица Маштакова, 11"
+		},
+		"timezone": "Europe/Moscow",
+		"products": [
+			{
+				"sale": {
+					"data": {
+						"m": 0,
+						"n": 0,
+						"more": 0
+					},
+					"price": 0,
+					"type": ""
+				},
+				"is_gift": false,
+				"options_total": 0,
+				"key_options": [],
+				"_id": "618152983acfd94710b87a78",
+				"category": "161C7633",
+				"id": 1419256,
+				"type": "meal",
+				"article": "114654",
+				"name": "Картошка фри",
+				"tax": 20,
+				"weight": 0.05,
+				"boxsize": 1,
+				"price": 200,
+				"unchangeable_combo_composition": [],
+				"options": [
+					{
+						"total": 0,
+						"_id": "6181528bc2e2da75588e73bb",
+						"selection_type": "any",
+						"name": "Добавки",
+						"variants": [
+							{
+								"_id": "6181528bc2e2da75588e73bc",
+								"free_limit": 1,
+								"name": "Томаты",
+								"tax": 0,
+								"status": "active",
+								"id": 305145,
+								"price": 30,
+								"total": 0
+							},
+							{
+								"_id": "6181528bc2e2da75588e73bd",
+								"free_limit": 1,
+								"name": "Огурцы ",
+								"tax": 0,
+								"status": "active",
+								"id": 305146,
+								"price": 10,
+								"total": 0
+							},
+							{
+								"_id": "6181528bc2e2da75588e73be",
+								"free_limit": 1,
+								"name": "Авокадо ",
+								"tax": 0,
+								"status": "active",
+								"id": 305147,
+								"price": 40,
+								"total": 0
+							},
+							{
+								"_id": "6181528bc2e2da75588e73bf",
+								"free_limit": 1,
+								"name": "Капуста ",
+								"tax": 0,
+								"status": "active",
+								"id": 305143,
+								"price": 10,
+								"total": 0
+							},
+							{
+								"_id": "6181528bc2e2da75588e73c0",
+								"free_limit": 1,
+								"name": "Халапеньо ",
+								"tax": 0,
+								"status": "active",
+								"id": 305148,
+								"price": 50,
+								"total": 0
+							},
+							{
+								"_id": "6181528bc2e2da75588e73c1",
+								"free_limit": 1,
+								"name": "Чили ",
+								"tax": 0,
+								"status": "active",
+								"id": 305144,
+								"price": 40,
+								"total": 0
+							}
+						],
+						"selection_required": false,
+						"kind": "ingredient",
+						"id": 48039
+					}
+				],
+				"options_groups": [],
+				"options_limits": [
+					{
+						"_id": "6181528bc2e2da75588e73c2",
+						"limit_type": "global",
+						"min": 0,
+						"rule_type": "kind",
+						"entity_name": "ingredient",
+						"max": 1
+					}
+				],
+				"quantity": 1,
+				"selected_options": [
+					{
+						"_id": "61815298c2e2da75588e73f4",
+						"id": 48039,
+						"values": [
+							{
+								"_id": "61815298c2e2da75588e73f5",
+								"id": 305145,
+								"quantity": 0
+							},
+							{
+								"_id": "61815298c2e2da75588e73f6",
+								"id": 305146,
+								"quantity": 0
+							},
+							{
+								"_id": "61815298c2e2da75588e73f7",
+								"id": 305147,
+								"quantity": 0
+							},
+							{
+								"_id": "61815298c2e2da75588e73f8",
+								"id": 305143,
+								"quantity": 0
+							},
+							{
+								"_id": "61815298c2e2da75588e73f9",
+								"id": 305148,
+								"quantity": 0
+							},
+							{
+								"_id": "61815298c2e2da75588e73fa",
+								"id": 305144,
+								"quantity": 1
+							}
+						]
+					}
+				],
+				"meal_total": 200,
+				"total": 200,
+				"external_system_id": "6181528bc2e2da75588e73ba"
+			}
+		],
+		"partner_id": "10776169",
+		"date_create": "2021-11-02T15:00:40.598Z",
+		"shop_address": "Маштакова,  11",
+		"shop_relationship": "aggregator",
+		"date_delivery": "2021-11-02T15:22:40.563Z",
+		"status_updated_at": "2021-11-02T15:01:03.745Z",
+		"confirm_limit_date": "2021-11-02T15:05:40.589Z",
+		"date_ready_to_delivery": "2021-11-02T15:02:40.606Z",
+		"created_in_partner": true,
+		"is_external_integration": false,
+		"is_courier_arrived": true
+	}
+}

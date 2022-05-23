@@ -1,0 +1,11 @@
+{
+	"nav": {
+		"page": 1,
+		"lpage": 20
+	},
+	"filters": {
+		"blocked": false,
+		"shop": [632]
+	},
+	"partners": ["test"]
+}

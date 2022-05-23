@@ -1,0 +1,22 @@
+{
+	"stat": {
+		"result": "success",
+		"error": null,
+		"categories": {
+			"success": 5,
+			"total": 7,
+			"failedNames": [
+				"категория1",
+				"категория2"
+			]
+		},
+		"products": {
+			"success": 1,
+			"total": 3,
+			"failedNames": [
+				"блюдо1",
+				"блюдо2"
+			]
+		}
+	}
+}

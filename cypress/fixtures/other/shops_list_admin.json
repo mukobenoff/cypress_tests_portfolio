@@ -1,0 +1,112 @@
+{
+	"shops": [
+		{
+			"id": 632,
+			"address": "Москва, парк Лени",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": true,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 733,
+			"address": "Алешкинский лес",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "fivedelivery",
+			"position": [
+				37.419686,
+				55.868637
+			]
+		},
+		{
+			"id": 758,
+			"address": "!\"№\"№\"№\"№123",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 759,
+			"address": "Москва, проспект Лермонтова, 34",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.58924,
+				55.7330341
+			]
+		},
+		{
+			"id": 760,
+			"address": "Москва, парк Ленина",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 761,
+			"address": "Москва, парк Победы",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				37.591224,
+				55.735033
+			]
+		},
+		{
+			"id": 883,
+			"address": "Москва, Зеленоград",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				32.334,
+				54.34242
+			]
+		},
+		{
+			"id": 884,
+			"address": "Москва, Зеленоград",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				12.33434,
+				31.213113
+			]
+		},
+		{
+			"id": 894,
+			"address": "Москва, Зеленоград",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "test",
+			"position": [
+				12.1212,
+				21.1213331
+			]
+		}
+	]
+}

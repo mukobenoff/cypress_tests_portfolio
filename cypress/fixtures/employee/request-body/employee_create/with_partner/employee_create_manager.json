@@ -1,0 +1,15 @@
+{
+	"surname": "test",
+	"name": "manager",
+	"patronymic": "Unused",
+	"email": "test@test.test",
+	"phone": "0000000000",
+	"city": "MSC",
+	"roles": [
+			"manager"
+	],
+	"shop": 632,
+	"partners": [
+			"test"
+	]
+}

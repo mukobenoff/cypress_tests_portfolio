@@ -1,0 +1,166 @@
+{
+	"order": {
+		"id": 1478909,
+		"pay": {
+				"type": "card"
+		},
+		"city": "msk",
+		"shop": 1010,
+		"price": {
+				"products": 200,
+				"delivery": 99,
+				"total": 299
+		},
+		"client": {
+				"id": "607459a072a5ce6664cefedc",
+				"name": "adsf",
+				"phone": "9256273844",
+				"email": "asdf@mail.ru",
+				"device_id": "yqq4ndia7r3"
+		},
+		"weight": 0.15,
+		"status": "created",
+		"cancel": {},
+		"system_id": "60e47593ac39d54e1458320b",
+		"comment": "",
+		"partner": {
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test"
+		},
+		"address": {
+				"coords": {
+						"lat": 55.77238,
+						"lon": 37.727688
+				},
+				"options": {
+						"flat": "3"
+				},
+				"name": "проспект Будённого, 21с3"
+		},
+		"timezone": "Europe/Moscow",
+		"products": [
+				{
+						"sale": {
+								"data": {
+										"m": 0,
+										"n": 0,
+										"more": 0
+								},
+								"price": 0,
+								"type": ""
+						},
+						"options_total": 0,
+						"key_options": [],
+						"_id": "60e47593ac39d54e1458320c",
+						"id": 1368033,
+						"type": "meal",
+						"article": "34968",
+						"name": "Салат летний",
+						"tax": 10,
+						"weight": 0.15,
+						"boxsize": 1,
+						"price": 200,
+						"unchangeable_combo_composition": [],
+						"options": [
+								{
+										"total": 0,
+										"_id": "60e475922119f726401175ea",
+										"selection_type": "any",
+										"selection_required": false,
+										"kind": "ingredient",
+										"name": "Овощи",
+										"variants": [
+												{
+														"_id": "60e475922119f726401175eb",
+														"free_limit": 1,
+														"name": "Лук",
+														"tax": 10,
+														"article": "13263",
+														"status": "active",
+														"id": 125922,
+														"price": 10,
+														"total": 0
+												},
+												{
+														"_id": "60e475922119f726401175ec",
+														"free_limit": 1,
+														"name": "Помидоры",
+														"tax": 10,
+														"article": "4365",
+														"status": "active",
+														"id": 125924,
+														"price": 10,
+														"total": 0
+												},
+												{
+														"_id": "60e475922119f726401175ed",
+														"free_limit": 1,
+														"name": "Огурец",
+														"tax": 10,
+														"article": "34325",
+														"status": "active",
+														"id": 125923,
+														"price": 10,
+														"total": 0
+												}
+										],
+										"article": "4693",
+										"id": 21134
+								}
+						],
+						"options_groups": [],
+						"options_limits": [
+								{
+										"_id": "60e475922119f726401175ee",
+										"limit_type": "global",
+										"min": 0,
+										"rule_type": "kind",
+										"entity_name": "ingredient",
+										"max": 7
+								}
+						],
+						"quantity": 1,
+						"selected_option_group": "",
+						"selected_options": [
+								{
+										"_id": "60e475932119f726401175fb",
+										"id": 21134,
+										"values": [
+												{
+														"_id": "60e475932119f726401175fc",
+														"id": 125922,
+														"quantity": 1
+												},
+												{
+														"_id": "60e475932119f726401175fd",
+														"id": 125924,
+														"quantity": 1
+												},
+												{
+														"_id": "60e475932119f726401175fe",
+														"id": 125923,
+														"quantity": 1
+												}
+										]
+								}
+						],
+						"meal_total": 200,
+						"total": 200,
+						"external_system_id": "60e475922119f726401175e9",
+						"category": 7
+				}
+		],
+		"partner_id": "1478909",
+		"date_create": "2021-07-06T15:24:03.847Z",
+		"shop_address": "Плещеева 15в",
+		"shop_relationship": "marketplace",
+		"date_delivery": "2021-07-06T16:19:03.817Z",
+		"status_updated_at": "2021-07-06T15:24:03.846Z",
+		"confirm_limit_date": "2021-07-06T15:29:03.835Z",
+		"date_ready_to_delivery": "2021-07-06T15:39:03.849Z",
+		"cutlery_count": 0,
+		"created_in_partner": false,
+		"is_external_integration": true
+	}
+
+}

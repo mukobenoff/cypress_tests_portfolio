@@ -1,0 +1,12 @@
+{
+	"nav": {
+		"page": 1,
+		"lpage": 40
+	},
+	"filters": {
+		"status": [
+			"done"
+		],
+		"shop": 632
+	}
+}

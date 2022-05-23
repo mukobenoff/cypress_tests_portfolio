@@ -1,0 +1,15 @@
+{
+	"partner_category": "169C7418",
+	"statuses": [
+			"active"
+	],
+	"search": {
+			"name": "name"
+	},
+	"last_tasks_group_only": true,
+	"is_invisible": true,
+	"nav": {
+			"page": 8,
+			"lpage": 10
+	}
+}

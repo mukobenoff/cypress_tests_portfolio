@@ -1,0 +1,26 @@
+{
+	"user": {
+		"id": "60268a8e7f317644c28e5d10",
+		"phone": "2223334455",
+		"name": "аккаунт",
+		"surname": "Тестовый",
+		"patronymic": "автотесты",
+		"email": "test@test.testtest",
+		"city": "MSC",
+		"partners": [
+			{
+				"name": "Покешная «Угорь Игорь»",
+				"code": "test"
+			}
+		],
+		"roles": [
+			"analyst"
+		],
+		"permissions": "0000000000000000000111",
+		"other_partners": [],
+		"shop": {
+			"id": 632,
+			"address": "Москва, парк Ленина"
+		}
+	}
+}

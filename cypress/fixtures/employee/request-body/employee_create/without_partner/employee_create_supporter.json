@@ -1,0 +1,12 @@
+{
+	"surname": "test",
+	"name": "supporter",
+	"patronymic": "Unused",
+	"email": "test@test.test",
+	"phone": "0000000000",
+	"city": "MSC",
+	"roles": [
+			"supporter"
+	],
+	"shop": 0
+}

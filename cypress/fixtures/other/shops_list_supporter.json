@@ -1,0 +1,400 @@
+{
+	"shops": [
+		{
+			"id": 632,
+			"address": "Москва, парк Лени",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": true,
+			"partner": "test",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 633,
+			"address": "Москва, парк Ленина 1",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				55,
+				37
+			]
+		},
+		{
+			"id": 739,
+			"address": "Южнобутовская",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				22.982674,
+				25.184283
+			]
+		},
+		{
+			"id": 740,
+			"address": "Кирова, 13",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				22.982674,
+				25.184283
+			]
+		},
+		{
+			"id": 741,
+			"address": "архангел",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				22.982674,
+				25.184283
+			]
+		},
+		{
+			"id": 742,
+			"address": "раз два",
+			"is_active": true,
+			"is_available": true,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				22.982674,
+				25.184283
+			]
+		},
+		{
+			"id": 743,
+			"address": "фыв",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				22.982674,
+				25.184283
+			]
+		},
+		{
+			"id": 744,
+			"address": "тест",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				22.982674,
+				25
+			]
+		},
+		{
+			"id": 746,
+			"address": "куку",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				25,
+				25
+			]
+		},
+		{
+			"id": 747,
+			"address": "asd",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				25,
+				25
+			]
+		},
+		{
+			"id": 748,
+			"address": "кукареку",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				25,
+				25
+			]
+		},
+		{
+			"id": 749,
+			"address": "аутяг",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				12,
+				12
+			]
+		},
+		{
+			"id": 750,
+			"address": "фывапфа",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				25,
+				25
+			]
+		},
+		{
+			"id": 751,
+			"address": "фывфыыыыы",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				25,
+				25
+			]
+		},
+		{
+			"id": 752,
+			"address": "куу",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				25,
+				25
+			]
+		},
+		{
+			"id": 756,
+			"address": "Арехово",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				25,
+				25
+			]
+		},
+		{
+			"id": 871,
+			"address": "Сретенский бульвар 7",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				55.766764,
+				37.634317
+			]
+		},
+		{
+			"id": 873,
+			"address": "тестовый",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.672149,
+				55.768196
+			]
+		},
+		{
+			"id": 899,
+			"address": "пушкино",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.590224,
+				55.734033
+			]
+		},
+		{
+			"id": 900,
+			"address": "asd",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.590224,
+				55.73403
+			]
+		},
+		{
+			"id": 913,
+			"address": "кукар",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.5141022,
+				55.6415068
+			]
+		},
+		{
+			"id": 914,
+			"address": "Солженицина 23",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.664815,
+				55.745093
+			]
+		},
+		{
+			"id": 916,
+			"address": "Улица Пушкина, дом Колотушкина",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 917,
+			"address": "ТЕСТ 12.04.20",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 918,
+			"address": "улица",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 919,
+			"address": "тест-2 12.04",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 920,
+			"address": "тест-3 12.04",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 921,
+			"address": "тест-3 12.04",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 922,
+			"address": "test-5 12.04",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 923,
+			"address": "тест-6 12.04",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 924,
+			"address": "test-8 12.04",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.617635,
+				55.755814
+			]
+		},
+		{
+			"id": 925,
+			"address": "ул. Маколея Каколея",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				37.2444424,
+				57.232323
+			]
+		},
+		{
+			"id": 943,
+			"address": "123123",
+			"is_active": true,
+			"is_available": false,
+			"is_enable": false,
+			"partner": "testpizzapartner",
+			"position": [
+				1,
+				1
+			]
+		}
+	]
+}

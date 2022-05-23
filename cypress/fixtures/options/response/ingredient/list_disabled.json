@@ -1,0 +1,203 @@
+{
+	"options": [
+		{
+			"status": "active",
+			"selection_type": "any",
+			"_id": "6008a54985b19e04d25ee3c9",
+			"partner": "test",
+			"kind": "ingredient",
+			"name": "Сыр6666",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "605371496eea4e07b39e4a84",
+					"name": "Пармезан",
+					"id": 258,
+					"tax": 20,
+					"price": 0
+				},
+				{
+					"status": "active",
+					"_id": "605371496eea4e07b39e4a85",
+					"name": "Моцарелла",
+					"id": 260,
+					"tax": 20,
+					"price": 0
+				},
+				{
+					"status": "active",
+					"_id": "605371496eea4e07b39e4a86",
+					"name": "Дорблю",
+					"id": 259,
+					"tax": 10,
+					"price": 0
+				}
+			],
+			"id": 15,
+			"__v": 15,
+			"article": "45",
+			"internal_name": "Сыр6"
+		},
+		{
+			"status": "active",
+			"selection_type": "any",
+			"_id": "6008a64585b19e04d25ee3cd",
+			"partner": "test",
+			"kind": "ingredient",
+			"name": "Мясо",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "6008a64585b19e04d25ee3ce",
+					"name": "Курица",
+					"id": 261,
+					"price": 0
+				},
+				{
+					"status": "active",
+					"_id": "6008a64585b19e04d25ee3cf",
+					"name": "Говядина",
+					"id": 262,
+					"price": 0
+				},
+				{
+					"status": "active",
+					"_id": "6008a64585b19e04d25ee3d0",
+					"name": "Левая нога единорога",
+					"id": 263,
+					"price": 0
+				}
+			],
+			"id": 16,
+			"__v": 0
+		},
+		{
+			"status": "disabled",
+			"selection_type": "any",
+			"_id": "603e341a761d29620c48356c",
+			"variants": [
+				{
+					"status": "disabled",
+					"_id": "603e35ff761d29620c48356f",
+					"name": "66",
+					"tax": 10,
+					"id": 1330,
+					"price": 66
+				}
+			],
+			"name": "666",
+			"internal_name": "666",
+			"kind": "ingredient",
+			"partner": "test",
+			"id": 196,
+			"__v": 2
+		},
+		{
+			"status": "active",
+			"selection_type": "any",
+			"_id": "603e37e8761d29620c48357c",
+			"variants": [
+				{
+					"status": "disabled",
+					"_id": "603e37f4761d29620c483583",
+					"name": "23423",
+					"tax": 10,
+					"id": 1334,
+					"price": 423423
+				}
+			],
+			"name": "фывафыва",
+			"internal_name": "фывафыва",
+			"kind": "ingredient",
+			"partner": "test",
+			"id": 198,
+			"__v": 6
+		},
+		{
+			"status": "active",
+			"selection_type": "any",
+			"_id": "60535f1b6eea4e07b39e49af",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "605371506eea4e07b39e4a87",
+					"name": "333",
+					"tax": 10,
+					"id": 1765,
+					"price": 333
+				}
+			],
+			"name": "Тест",
+			"internal_name": "Тест",
+			"article": "123",
+			"kind": "ingredient",
+			"partner": "test",
+			"id": 360,
+			"__v": 1
+		},
+		{
+			"status": "active",
+			"selection_type": "any",
+			"_id": "60587f81e69416590b228e9d",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "60587f81e69416590b228e9e",
+					"name": "Ррр55",
+					"tax": 10,
+					"id": 1851,
+					"price": 55
+				}
+			],
+			"name": "Тест",
+			"internal_name": "Супер тестп",
+			"kind": "ingredient",
+			"partner": "test",
+			"id": 408,
+			"__v": 0
+		},
+		{
+			"status": "active",
+			"selection_type": "any",
+			"_id": "6059fd5261681177b0316a46",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "6059fd5261681177b0316a47",
+					"name": "lxlx",
+					"id": 1854,
+					"price": 29
+				}
+			],
+			"article": "xlxxlx",
+			"name": "mzkx",
+			"internal_name": "kxkxkxkj",
+			"kind": "ingredient",
+			"partner": "test",
+			"id": 410,
+			"__v": 0
+		},
+		{
+			"status": "active",
+			"selection_type": "any",
+			"_id": "605c68d537eaab6569d776be",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "605c68d537eaab6569d776bf",
+					"name": "Зеленая",
+					"id": 2011,
+					"price": 400
+				}
+			],
+			"name": "Крокозябрина",
+			"internal_name": "Крокозябрина",
+			"article": "456",
+			"kind": "ingredient",
+			"partner": "test",
+			"id": 488,
+			"__v": 0
+		}
+	],
+	"total": 8
+}

@@ -1,0 +1,25 @@
+{
+	"partners": [
+		{
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test",
+			"images": {
+				"logo_preview": "default/srcsivXgpeJvt4XG4qVnyevQmI0Tjj1625038957811.png",
+				"cover": "default/jgE8zsXKpd1BZvsb8EsXp0gueDrTLP1622539538248.png",
+				"logo": "default/yjx3b0sizZutosyS3TwdZBvSRpdclX1625038963825.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				],
+				"logo_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": false
+		}
+	]
+}

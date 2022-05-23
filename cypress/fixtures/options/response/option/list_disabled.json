@@ -1,0 +1,110 @@
+{
+	"options": [
+		{
+			"status": "disabled",
+			"selection_type": "one",
+			"_id": "6008a4a185b19e04d25ee3c5",
+			"partner": "test",
+			"kind": "option",
+			"selection_limit": 1,
+			"name": "Прожарка",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "605c3b8a27c1ca72999eefd3",
+					"name": "Medium-Rare",
+					"limit": 1,
+					"exclude": true,
+					"partner_product_id": 14,
+					"product_configuration_type": "full",
+					"tax": 0,
+					"id": 255,
+					"price": 148
+				},
+				{
+					"status": "active",
+					"_id": "605c3b8a27c1ca72999eefd4",
+					"name": "Medium",
+					"id": 256,
+					"price": 159
+				},
+				{
+					"status": "active",
+					"_id": "605c3b8a27c1ca72999eefd5",
+					"name": "Welldone",
+					"id": 257,
+					"price": 146
+				},
+				{
+					"status": "active",
+					"_id": "605c3b8a27c1ca72999eefd6",
+					"name": "567567",
+					"id": 1139,
+					"price": 176
+				}
+			],
+			"id": 14,
+			"__v": 139,
+			"article": "444",
+			"internal_name": "Прожарка",
+			"description": "string"
+		},
+		{
+			"status": "active",
+			"selection_type": "one",
+			"_id": "6008a9bd85b19e04d25ee3e0",
+			"partner": "test",
+			"kind": "option",
+			"selection_limit": 0,
+			"name": "Размер",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "603cc372468a8d3e0f5ab323",
+					"name": "23см",
+					"id": 264,
+					"price": 0
+				},
+				{
+					"status": "active",
+					"_id": "603cc372468a8d3e0f5ab324",
+					"name": "30см",
+					"id": 265,
+					"price": 0
+				}
+			],
+			"id": 17,
+			"__v": 7,
+			"internal_name": "Размер"
+		},
+		{
+			"status": "active",
+			"selection_type": "one",
+			"_id": "6008a9f285b19e04d25ee3e3",
+			"partner": "test",
+			"kind": "option",
+			"selection_limit": 0,
+			"name": "Тесто",
+			"variants": [
+				{
+					"status": "active",
+					"_id": "603cc377468a8d3e0f5ab325",
+					"name": "Тонкое",
+					"id": 266,
+					"price": 0
+				},
+				{
+					"status": "active",
+					"_id": "603cc377468a8d3e0f5ab326",
+					"name": "Традиционное",
+					"id": 267,
+					"price": 0
+				}
+			],
+			"id": 18,
+			"__v": 3,
+			"internal_name": "Тесто"
+		}
+	],
+	"total": 3
+}

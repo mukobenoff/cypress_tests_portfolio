@@ -1,0 +1,53 @@
+{
+	"product": {
+		"_id": "60226b3d004f433b335394e5",
+		"is_invisible": false,
+		"status": "active",
+		"photos": {
+			"additional": [],
+			"position": "center",
+			"_id": "60226b3d004f433b335394e6",
+			"main": {
+				"path": "https://dev-storage.okolo.app/files/b2b/images/test/KqNJq8zCTiLzkNzzqez0yAcedx323c1612868378662"
+			}
+		},
+		"has_photo": true,
+		"features": [],
+		"is_returnable": false,
+		"marking_category": "unmarked",
+		"partner_categories": [
+			"169C7418"
+		],
+		"key_options": [],
+		"service_fields": {
+			"_id": "60226f955c838c793bb07e04"
+		},
+		"name": "много мандаринок",
+		"description": "почти армия красивых мандаринок",
+		"tax": 10,
+		"weight": 1500,
+		"available_option_variants": [],
+		"product_type": "meal",
+		"nutrition_facts": {
+			"_id": "60226f955c838c793bb07e05",
+			"calories": 0,
+			"proteins": 0,
+			"fats": 0,
+			"carbohydrates": 0
+		},
+		"partner": "test",
+		"option_groups": [],
+		"division": "partner",
+		"market_identifiers": [],
+		"filter_values": [],
+		"options_limits": [],
+		"unchangeable_combo_composition": [],
+		"created_at": "2021-02-09T11:00:13.639Z",
+		"updated_at": "2021-02-26T08:25:39.269Z",
+		"id": 227,
+		"__v": 0,
+		"tasks": [],
+		"last_task_created_at": "2021-02-26T08:27:38.893Z",
+		"price": 300
+	}
+}

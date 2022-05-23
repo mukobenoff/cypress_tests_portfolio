@@ -1,0 +1,67 @@
+{
+	"partners": [
+		{
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test",
+			"images": {
+				"logo_preview": "default/srcsivXgpeJvt4XG4qVnyevQmI0Tjj1625038957811.png",
+				"cover": "default/jgE8zsXKpd1BZvsb8EsXp0gueDrTLP1622539538248.png",
+				"logo": "default/yjx3b0sizZutosyS3TwdZBvSRpdclX1625038963825.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				],
+				"logo_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Тестовый партнер",
+			"code": "test-denis",
+			"images": {
+				"cover": "default/xuNc8bCLTE0CkpH5HMfY1r9PpM6DOW1621503650162",
+				"logo_preview": "default/emBv1dEi4EYasxAWnrhrMSJlg5oJyH1623261131294.svg",
+				"logo": "default/NJpFG2xOS2Fya6U14zBAa3cdVKg3qD1623261134874.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Покешная «Угорь Игорь» 2",
+			"code": "test2",
+			"images": {
+				"logo_preview": "default/srcsivXgpeJvt4XG4qVnyevQmI0Tjj1625038957811.png",
+				"cover": "default/jgE8zsXKpd1BZvsb8EsXp0gueDrTLP1622539538248.png",
+				"logo": "default/yjx3b0sizZutosyS3TwdZBvSRpdclX1625038963825.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				],
+				"logo_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": true
+		}
+	]
+}

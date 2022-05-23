@@ -1,0 +1,1054 @@
+{
+	"partners": [
+		{
+			"name": "Пиццерия «LaRosa's»",
+			"code": "testpizzapartner",
+			"images": {
+				"cover": "default/PEClAArFdr2H6wB98fgnX5buwCTiak1612905810143",
+				"logo_preview": "default/hZHYtSBsb8y5XCmcXTu17KSuBBysbN1613819945982.svg",
+				"logo": "default/Gsb76iwWAxj2Zb4W6gUhyzCtggTG7L1613819917284.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test",
+			"images": {
+				"logo_preview": "default/srcsivXgpeJvt4XG4qVnyevQmI0Tjj1625038957811.png",
+				"cover": "default/jgE8zsXKpd1BZvsb8EsXp0gueDrTLP1622539538248.png",
+				"logo": "default/yjx3b0sizZutosyS3TwdZBvSRpdclX1625038963825.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				],
+				"logo_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Сеть магазинов «Елочки-Иголочки»",
+			"code": "trees",
+			"images": {
+				"logo_preview": "default/suRyvcRnk1Agnu4hsjcm2pAPJpuEQ11622539044200.png",
+				"cover": "default/Ppaw32y1UC4ovhF5A7P44xF3ZppOA21622539062080.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				],
+				"logo": "default/5acmnCfSufCqCQxRppG8HR0pyQI6291622539056340.svg",
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Кафе «Лапки и хвостики»",
+			"code": "pawstails",
+			"images": {
+				"logo_preview": "default/HjEr0O6O76NoVZe3a90xPqqyeEijAL1622719263237.svg",
+				"cover": "default/01nkXCSO4COG8K2huFTkKrmfo3CA1x1613651243252",
+				"logo": "default/vkUZIQX8zAaO49pkuidypZbpO4gYTO1622049842926.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Кафе «Щекотки и Царапки»",
+			"code": "scratchy",
+			"images": {
+				"logo_preview": "default/6Zi8lurZ30v43tWS1UqiwRnUh639f71622538369950.svg",
+				"logo": "default/9zuKi98Y7FsvwLxpE06yT1ohHQlhiu1622473762127.svg",
+				"cover": "default/W8bnT1Qye8BOlkuGWUvOp89XFwIcLp1622538391581.jpeg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Пиццерия \"У Настюхи и Кирюхи\"",
+			"code": "245",
+			"images": {
+				"logo": "default/nNdwMO1WMDQaIRvMBRw9mVSkeLLRJO1622537526071.png",
+				"logo_preview": "default/cwOebyuwtFfzrpcp15bHeT10QEN7A21622537532789.svg",
+				"cover": "default/DxcG38QNWQNpIUwsNZVFLhiqtURtsv1622538179083.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Макдональдс",
+			"code": "mcdonalds",
+			"images": {
+				"logo_preview": "default/0KrUrIpzpUNbIQEClBfjoNlR8D1uBk1617195081119.svg",
+				"logo": "default/EJsyiVLfmZvcI8hdXAJ8EIYDbD4BqA1617195090148.svg",
+				"cover": "default/HUNsdB3aGfAqzilb7NrAxeY7L5VTzH1613652588044",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Магазин «Мир Соловьёва»",
+			"code": "7767",
+			"images": {
+				"cover": "default/ukw8FP68luAZ1GGEpVzKf9M0DztHz11622537995349.png",
+				"logo": "default/Uy7bpOQQNwT25CK76AB90uZNHi0gh31617195393635.svg",
+				"logo_preview": "default/AWJx2smbJPBmFnYQSjE1rmvxjZg0lJ1617195388553.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Сеть супермаркетов «Дочки-Сыночки и сыночки дочек\"",
+			"code": "sonsdaughters",
+			"images": {
+				"logo": "default/MsYbCBI4mI1yfJcO9xmjVwVUU3tMe21612948018088",
+				"logo_preview": "default/aZG5rvRKh85HNLIEuegr6KjOVCZqC61612948135297",
+				"cover": "default/0wtKEZFanRvZylrNU0pFodBRJ0Oyki1613498437134",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Магазин «‎Карамелька»",
+			"code": "caramel",
+			"images": {
+				"cover": "default/zoNrKjOQz3hY2NJS7wQcwnZaHyQbpA1613651852572",
+				"logo_preview": "default/L9hc5oEBtwDAlYw2n1doo80AyHbr3a1613651865343.svg",
+				"logo": "default/cYwa9WzP0Azpxi1N9UE0kJ2r33xOjZ1613651873558.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Бургерная «‎Red&Bull»",
+			"code": "redbull",
+			"images": {
+				"cover": "default/xtGSiXMIONFvFj2VOq31LgCp45G8TJ1622538955878.jpeg",
+				"logo": "default/4NICzmHSaKREGFCHqEb35ouI1jEd2A1621873132905.svg",
+				"logo_preview": "default/Wbwkt4N1sPXZTBoEEFbVSru3ir1vT61621873272080.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Хинкальная «Грузик»",
+			"code": "gruzik",
+			"images": {
+				"logo": "default/20JHyv43dQQDI2VKD6ZumFCxIyXXIT1617195541500.svg",
+				"logo_preview": "default/MPoaTPYlIEFU8WAiZk0L7dYbUGhEvQ1619078772516.svg",
+				"cover": "default/7WmzROqEQDs74L0uDewWFPI5ZkP6sn1622538942752.jpeg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Тестовый партнер",
+			"code": "test-denis",
+			"images": {
+				"cover": "default/xuNc8bCLTE0CkpH5HMfY1r9PpM6DOW1621503650162",
+				"logo_preview": "default/emBv1dEi4EYasxAWnrhrMSJlg5oJyH1623261131294.svg",
+				"logo": "default/NJpFG2xOS2Fya6U14zBAa3cdVKg3qD1623261134874.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Партнер Толя",
+			"code": "test-frontend",
+			"images": {
+				"logo": "default/VhpZbqT4LJKOWZHtMwTjzKoa7xXWZj1617195582177.svg",
+				"cover": "default/E05VI3RZm05hyPh6wsyWyikr2WpUHI1622538965177.jpeg",
+				"logo_preview": "default/cnl6BRVOgDlmiKvjWwtY80s7I173lQ1617195576376.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Партнер Анна",
+			"code": "test-anna",
+			"images": {
+				"logo_preview_candidates": [],
+				"cover_candidates": [],
+				"logo": "default/OvYZSFCotskxpEO8B13xVfCXX3MrmY1614850119953.svg",
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Партнер Нина",
+			"code": "test-nina",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Партнер без продуктов",
+			"code": "test-empty",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview": "default/cgAAlLdsb3rYHpYmm7uQvDhVYZyoJL1615914239811.svg",
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"cover": "default/MNuKUvt1JVCex8m8VyhIQEyP1DuusT1621503682016",
+				"cover_formats": [
+					"jpeg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Город Сад 2",
+			"code": "GorodSad",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Партнер для демо",
+			"code": "demo1",
+			"images": {
+				"logo_candidates": [],
+				"cover_candidates": [],
+				"logo_preview": "default/OK7AAJOmJL1WboVI2Askr9EZGV7bPo1622047959830.png",
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Партнер для демо 2",
+			"code": "demo2",
+			"images": {
+				"logo_preview_candidates": [],
+				"cover": "default/k2eB2v218a7yId5o8LXiE5oZx6hgPE1622536907776.jpeg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo": "default/VaIoprrYJwxXz3psj4mHejgUE8L6Xl1622536963269.svg",
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Ваби Саби",
+			"code": "vabisabi",
+			"images": {
+				"cover_candidates": [],
+				"logo": "default/gKpfYEGrNk0w6nznXZ9tu34UUO8K991622108013675.png",
+				"logo_formats": [
+					"jpeg",
+					"png"
+				],
+				"logo_preview": "default/EUcXVVvPCTHna3CiGxFb5dRS7unNnQ1622108028408.png",
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Тест-Тест",
+			"code": "test-test",
+			"images": {
+				"logo_candidates": [],
+				"cover_candidates": [],
+				"logo_preview": "default/VI2DchwitM3kDI5GJ7H0mIsN2TecdP1614675448905.svg",
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Левый магазин (бывш McDonalds)",
+			"code": "mcd",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Город сад",
+			"code": "gorodsad",
+			"images": {
+				"logo_candidates": [],
+				"cover_candidates": [],
+				"logo_preview": "default/pjqp4pmf5DMnIjbiw6qtXW5yhIhClc1615283459070.svg",
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "НЕ ТРОГАТЬ",
+			"code": "testpartner",
+			"images": {
+				"cover": "default/3lGDRwkG0NROLZfMHLSftAkJnByhYe1623261237714.png",
+				"logo": "default/qA1SNsM2tIICY7Q4FKu0G7ST0kUJeK1623261147800.svg",
+				"logo_preview": "default/BQiDE5sdhcswSKQnNr32wAVJo4dyRA1623261144292.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Левый магазин (бывш Макдоналдс)",
+			"code": "mcdonaldsrus",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Хмели-Сумели (тест)",
+			"code": "666",
+			"images": {
+				"cover": "default/kIO7D9E6K2ye0Y9yDhMfoPT2pbxUkA1614840278843",
+				"logo_preview": "default/0OWudTt9YWUbDWvGPsTqMdyxRY25pV1623412200799.svg",
+				"logo": "default/hDwuJBCDkHgKtx7OtoOBbbQ4wXvQ7H1614852079916.svg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Тест 2 Тест 2Тест 2Тест 2Тест 2Тест 2Тест 2 Тест 2",
+			"code": "667",
+			"images": {
+				"cover_candidates": [],
+				"logo_preview": "default/4GWWg32kkzrr9ezQOAweACvdty7DlJ1614851067172.svg",
+				"logo": "default/1X4K1dxbT8XyEtHusRFspFHef1tg8a1617625384872.svg",
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Тест 4",
+			"code": "669",
+			"images": {
+				"logo_candidates": [],
+				"cover_candidates": [],
+				"logo_preview": "default/yOGFqZUezjjugY5I0yJSwN35Lxjxyp1614854728059.svg",
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "НЕ РАБОЧИЙ! НЕ ИСПОЛЬЗОВАТЬ! Папа Джонс",
+			"code": "papaJohns",
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Леффе",
+			"code": "leffe",
+			"images": {
+				"logo_candidates": [],
+				"cover_candidates": [],
+				"logo_preview": "default/ow5GakTPtCN3UjL6CneX4m73tVOrbX1615540189721.svg",
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Папа Джонс",
+			"code": "papajohns",
+			"images": {
+				"cover": "default/Rrg0glKuS9sFlg8GcQXveuFH7Z2gU11624871011962.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview": "default/C0niG1kWGtxD53hh7ifqnFatXYYSXj1624871127881.png",
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				],
+				"logo": "default/2B9I9uaoFIYzl9VgBrMzZun05axP9x1624870981582.png",
+				"logo_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "На ночь жрать!",
+			"code": "nanochzhrat",
+			"images": {
+				"logo_candidates": [],
+				"cover": "default/zZ9FOUofWRnw3cq7jGwDnvPSrds59p1621864167906",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview": "default/mNffsSy6Rl0wryLIocX6uujaEBDgeD1621874848097.svg",
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "лимончик",
+			"code": "777",
+			"images": {
+				"cover": "default/pBp3ATQrvSFaw21OZVK8XWkFAfDNMj1621506458132",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo": "default/HlH6LJLWfFBedufeiNCBlV0zknjRHz1622539590460.svg",
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_preview": "default/wvgal6HxlNMnhfy1sob41QZNUG7fOE1622539605162.svg",
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "торты",
+			"code": "tort",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "электро",
+			"code": "electro",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "куку",
+			"code": "123",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "тутю",
+			"code": "12344",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover": "default/2HMonu7U282SmSe53YRdfQSyjYBkIN1622536427686.jpeg",
+				"cover_formats": [
+					"jpeg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "сырок",
+			"code": "234",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "перекрёсток 1",
+			"code": "22",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "фыв",
+			"code": "124124",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Кафе \"Тествое\"",
+			"code": "601",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "пятерочка",
+			"code": "12345",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "оиоио",
+			"code": "test66",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Ресторан под названием ТЕСТИНГ",
+			"code": "terdsffsfsdfsdf",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "кк",
+			"code": "12q",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "ра",
+			"code": "das2",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "карп",
+			"code": "13A",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "фывфыв",
+			"code": "213f",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "мак",
+			"code": "24-1d",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "тест1",
+			"code": "121Q",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Тест-Рест",
+			"code": "123124asd",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Сеть «Второе дыхание»",
+			"code": "secbr",
+			"images": {
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Для фронта (НЕ ТРОГАТЬ)",
+			"code": "frontendtests",
+			"images": {
+				"logo_preview": "default/TGlDwe0RKsciN4jimOH3TI9GURQqX71624630956790.svg",
+				"logo": "default/9fJbbowRbOzoHFsg8OVOJWGg8busl71623775911065.png",
+				"cover": "default/oxHvcl8uLZJyDPxTBz5WyXDKtV89gX1623828202571.jpeg",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"png"
+				]
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Веселый Кот",
+			"code": "catttt",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "«Пила-ела»",
+			"code": "saw",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Закусочная «Столовка»",
+			"code": "stolovka",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Макдоналдс интеграции, Пивнев сожрет, если будете трогать",
+			"code": "mcdonaldsintegration",
+			"images": {
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview": "default/nA72d2NMmMW1YGs5nuUDTiEdpI4y8a1623261201561.svg",
+				"logo": "default/cvi6GmITxH9VfsQTCMXfqum7DyvaEZ1623261206284.svg",
+				"cover": "default/cYtrO3vcC034BNcREocZlBtEnrCnhj1623261210189.png"
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Магазин «Антошка»",
+			"code": "fff",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "IIKO для проверки",
+			"code": "iikopartner",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "DIA Brazil",
+			"code": "diatest",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover": "default/oouQRVTzPbeJO95tLaoW1zVcRqTy3H1621496359289"
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "trelrscasdas",
+			"code": "21kjsdfvbasdfcnasd",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "999",
+			"code": "9sss99",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Макдоналдс",
+			"code": "newmcdonaldsintegration",
+			"images": {
+				"logo_preview": "default/7mgKSl1hGLUHdzPAr32SRGmFVlAcKB1623253164886.svg",
+				"logo": "default/Olh9wrBwhX0M708yTVW75vVoQE5C1n1623253169347.svg",
+				"cover": "default/sJHUwmEn8Eb0MEz4pPNdHCN5gsWVnT1623253194442.png",
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				]
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "iiko партнер (iikoBiz)",
+			"code": "iikobizpartner",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "iiko партнер (iikoCloud)",
+			"code": "iikocloudpartner",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": true
+		},
+		{
+			"name": "Тест нескольких зон для 1 ресторана",
+			"code": "testrestaurantzones",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Команда Автоматизации",
+			"code": "a111",
+			"images": {
+				"logo_formats": [
+					"jpeg",
+					"svg"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"svg"
+				],
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview": "default/DYhSqd99UX5lAELZO2xYrjjhDWNrzc1623749252897.svg",
+				"logo": "default/jVQV7RObIuo3ziQ9R0M8cYuzEztl3a1623749259159.svg",
+				"cover": "default/aTav49FQ0gVFihb4t3xNGGNTA73C6L1623749473378.jpeg"
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Агрегатор (сначала в B2B)",
+			"code": "agragator",
+			"images": {
+				"logo_formats": [],
+				"logo_preview_formats": [],
+				"cover_formats": [],
+				"logo_candidates": [],
+				"logo_preview_candidates": [],
+				"cover_candidates": []
+			},
+			"isExternalIntegration": false
+		},
+		{
+			"name": "Калмыцкий ресторан \"У Олежки\"",
+			"code": "kalmyk1",
+			"images": {
+				"logo_formats": [
+					"jpeg",
+					"png"
+				],
+				"logo_preview_formats": [
+					"jpeg",
+					"png"
+				],
+				"cover_formats": [
+					"jpeg"
+				],
+				"logo_preview": "default/bBY7HmHfxJ2cHrJIysoYV9DvKPm6pk1625056047326.png",
+				"logo": "default/EMV34GzxyKgKN7KJzbYqc7eKvbEFQk1625056053188.png",
+				"cover": "default/I3OHdnDEb84SGJjycDkql3TNkm9xix1625056264353.jpeg"
+			},
+			"isExternalIntegration": false
+		}
+	]
+}

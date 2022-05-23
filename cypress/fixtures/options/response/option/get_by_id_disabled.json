@@ -1,0 +1,52 @@
+{
+	"option": {
+		"status": "disabled",
+		"selection_type": "one",
+		"_id": "6008a4a185b19e04d25ee3c5",
+		"partner": "test",
+		"kind": "option",
+		"selection_limit": 1,
+		"name": "Прожарка",
+		"variants": [
+			{
+				"status": "active",
+				"_id": "605c3bcb27c1ca72999eefdf",
+				"name": "Medium-Rare",
+				"limit": 1,
+				"exclude": true,
+				"partner_product_id": 14,
+				"product_configuration_type": "full",
+				"tax": 0,
+				"id": 255,
+				"price": 148
+			},
+			{
+				"status": "active",
+				"_id": "605c3bcb27c1ca72999eefe0",
+				"name": "Medium",
+				"id": 256,
+				"price": 159
+			},
+			{
+				"status": "active",
+				"_id": "605c3bcb27c1ca72999eefe1",
+				"name": "Welldone",
+				"id": 257,
+				"price": 146
+			},
+			{
+				"status": "active",
+				"_id": "605c3bcb27c1ca72999eefe2",
+				"name": "567567",
+				"id": 1139,
+				"price": 176
+			}
+		],
+		"id": 14,
+		"__v": 140,
+		"article": "444",
+		"internal_name": "Прожарка",
+		"description": "string",
+		"disable_linked_products": true
+	}
+}

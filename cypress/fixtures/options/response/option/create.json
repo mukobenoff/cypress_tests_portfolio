@@ -1,0 +1,14 @@
+{
+	"variants": [
+		{
+			"name": "Большие",
+			"price": 100,
+			"tax": 10,
+			"receipt_price": 100
+		}
+	],
+	"selection_type": "one",
+	"name": "Персики",
+	"internal_name": "Персики",
+	"kind": "option"
+}

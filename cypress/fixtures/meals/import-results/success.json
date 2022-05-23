@@ -1,0 +1,16 @@
+{
+	"stat": {
+		"result": "success",
+		"error": null,
+		"categories": {
+			"success": 7,
+			"total": 7,
+			"failedNames": []
+		},
+		"products": {
+			"success": 3,
+			"total": 3,
+			"failedNames": []
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"user": {
+		"id": "606b08a539b654370676dc69",
+		"phone": "9030070999",
+		"name": "Суппорт",
+		"surname": "Суппорт",
+		"patronymic": "Суппортович",
+		"email": "daf@ja.ru",
+		"city": "MSC",
+		"partners": [{ "code": "test", "name": "Покешная «Угорь Игорь»" }],
+		"roles": ["supporter"],
+		"permissions": "0000000000000000333333000000000000000003",
+		"shop": {}
+	}
+}

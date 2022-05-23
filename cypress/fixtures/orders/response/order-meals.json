@@ -1,0 +1,532 @@
+{
+	"products": [
+			{
+					"_id": "60e2ceedf3f8d111a825ca81",
+					"is_invisible": false,
+					"no_weight": false,
+					"status": "active",
+					"photos": {
+							"additional": [],
+							"_id": "60e2ceedf3f8d111a825ca97",
+							"position": "center"
+					},
+					"has_photo": false,
+					"nutrition_facts": {
+							"_id": "60e2ceedf3f8d111a825ca96"
+					},
+					"features": [],
+					"flags": [],
+					"limit": {
+							"_id": "60e2ceedf3f8d111a825ca7f"
+					},
+					"marking_category": "unmarked",
+					"partner_categories": [
+							"103C5783"
+					],
+					"key_options": [
+							21657
+					],
+					"service_fields": {
+							"_id": "60e2ceedf3f8d111a825ca98"
+					},
+					"name": "Поке (сложное блюдо)",
+					"description": "",
+					"article": "",
+					"tax": 20,
+					"weight": 0,
+					"volume": 0,
+					"available_option_variants": [
+							{
+									"selection_required": false,
+									"_id": "60e2cf0ff3f8d111a825cad9",
+									"default_variant_id": 129382,
+									"id": 43156,
+									"option_id": 21657,
+									"variants": [
+											{
+													"_id": "60e2cf0ff3f8d111a825cada",
+													"variant_id": 129381,
+													"id": 782337,
+													"price": 0
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cadb",
+													"variant_id": 129382,
+													"id": 782329,
+													"price": 0
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cadc",
+													"variant_id": 129383,
+													"id": 782330,
+													"price": 0
+											}
+									]
+							},
+							{
+									"selection_required": true,
+									"_id": "60e2cf0ff3f8d111a825cadd",
+									"default_variant_id": 136406,
+									"id": 43157,
+									"option_id": 22156,
+									"variants": [
+											{
+													"_id": "60e2cf0ff3f8d111a825cade",
+													"variant_id": 136404,
+													"max_limit": 3,
+													"id": 782343,
+													"price": 25
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cadf",
+													"variant_id": 136405,
+													"max_limit": 3,
+													"id": 782331,
+													"price": 25
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cae0",
+													"variant_id": 136406,
+													"max_limit": 3,
+													"id": 782339,
+													"price": 25
+											}
+									]
+							},
+							{
+									"selection_required": false,
+									"_id": "60e2cf0ff3f8d111a825cae1",
+									"id": 43158,
+									"option_id": 22627,
+									"variants": [
+											{
+													"_id": "60e2cf0ff3f8d111a825cae2",
+													"variant_id": 139594,
+													"max_limit": 4,
+													"id": 782332,
+													"price": 45
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cae3",
+													"variant_id": 139598,
+													"max_limit": 4,
+													"id": 782333,
+													"price": 45
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cae4",
+													"variant_id": 139595,
+													"max_limit": 4,
+													"id": 782346,
+													"price": 34
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cae5",
+													"variant_id": 139596,
+													"max_limit": 4,
+													"id": 782334,
+													"price": 35
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cae6",
+													"variant_id": 139597,
+													"max_limit": 4,
+													"id": 782335,
+													"price": 36
+											}
+									]
+							},
+							{
+									"selection_required": false,
+									"_id": "60e2cf0ff3f8d111a825cae7",
+									"id": 43159,
+									"option_id": 21134,
+									"variants": [
+											{
+													"_id": "60e2cf0ff3f8d111a825cae8",
+													"variant_id": 125922,
+													"max_limit": 4,
+													"free_limit": 2,
+													"id": 782336,
+													"price": 25
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825cae9",
+													"variant_id": 125924,
+													"max_limit": 4,
+													"free_limit": 2,
+													"id": 782338,
+													"price": 25
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825caea",
+													"variant_id": 125921,
+													"max_limit": 4,
+													"free_limit": 2,
+													"id": 782340,
+													"price": 25
+											},
+											{
+													"_id": "60e2cf0ff3f8d111a825caeb",
+													"variant_id": 125923,
+													"max_limit": 4,
+													"free_limit": 2,
+													"id": 782341,
+													"price": 25
+											}
+									]
+							}
+					],
+					"product_type": "complex_meal",
+					"options_limits": [
+							{
+									"min": 0,
+									"_id": "60e2ceedf3f8d111a825ca95",
+									"rule_type": "kind",
+									"entity_name": "ingredient",
+									"limit_type": "global",
+									"max": 20,
+									"id": 12526
+							}
+					],
+					"option_groups": [
+							{
+									"status": "active",
+									"nutrition_facts": {
+											"_id": "60e2cefff3f8d111a825cab9",
+											"proteins": 23,
+											"fats": 232,
+											"carbohydrates": 23,
+											"calories": 23
+									},
+									"_id": "60e2cefff3f8d111a825cab8",
+									"weight": 45,
+									"additionals": [
+											{
+													"selection_required": false,
+													"_id": "60e2cefff3f8d111a825caba",
+													"option_id": 21657,
+													"variants": [
+															{
+																	"_id": "60e2cefff3f8d111a825cabb",
+																	"variant_id": 129381,
+																	"id": 782311,
+																	"price": 0
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cabc",
+																	"variant_id": 129382,
+																	"id": 782313,
+																	"price": 0
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cabd",
+																	"variant_id": 129383,
+																	"id": 782314,
+																	"price": 0
+															}
+													],
+													"default_variant_id": 129382,
+													"id": 143479
+											},
+											{
+													"selection_required": true,
+													"_id": "60e2cefff3f8d111a825cabe",
+													"option_id": 22156,
+													"variants": [
+															{
+																	"_id": "60e2cefff3f8d111a825cabf",
+																	"variant_id": 136404,
+																	"max_limit": 3,
+																	"id": 782316,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cac0",
+																	"variant_id": 136405,
+																	"max_limit": 3,
+																	"id": 782317,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cac1",
+																	"variant_id": 136406,
+																	"max_limit": 3,
+																	"id": 782319,
+																	"price": 25
+															}
+													],
+													"default_variant_id": 136406,
+													"id": 143480
+											},
+											{
+													"selection_required": false,
+													"_id": "60e2cefff3f8d111a825cac2",
+													"option_id": 22627,
+													"variants": [
+															{
+																	"_id": "60e2cefff3f8d111a825cac3",
+																	"variant_id": 139594,
+																	"max_limit": 4,
+																	"id": 782320,
+																	"price": 45
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cac4",
+																	"variant_id": 139598,
+																	"max_limit": 4,
+																	"id": 782321,
+																	"price": 45
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cac5",
+																	"variant_id": 139595,
+																	"max_limit": 4,
+																	"id": 782322,
+																	"price": 34
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cac6",
+																	"variant_id": 139596,
+																	"max_limit": 4,
+																	"id": 782323,
+																	"price": 35
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cac7",
+																	"variant_id": 139597,
+																	"max_limit": 4,
+																	"id": 782324,
+																	"price": 36
+															}
+													],
+													"id": 143481
+											},
+											{
+													"selection_required": false,
+													"_id": "60e2cefff3f8d111a825cac8",
+													"option_id": 21134,
+													"variants": [
+															{
+																	"_id": "60e2cefff3f8d111a825cac9",
+																	"variant_id": 125922,
+																	"max_limit": 4,
+																	"free_limit": 2,
+																	"id": 782325,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825caca",
+																	"variant_id": 125924,
+																	"max_limit": 4,
+																	"free_limit": 2,
+																	"id": 782326,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cacb",
+																	"variant_id": 125921,
+																	"max_limit": 4,
+																	"free_limit": 2,
+																	"id": 782327,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cefff3f8d111a825cacc",
+																	"variant_id": 125923,
+																	"max_limit": 4,
+																	"free_limit": 2,
+																	"id": 782328,
+																	"price": 25
+															}
+													],
+													"id": 143482
+											}
+									],
+									"key": "21657V129382",
+									"id": 33467,
+									"price": 540
+							},
+							{
+									"status": "active",
+									"nutrition_facts": {
+											"_id": "60e2cf0ff3f8d111a825cb05",
+											"proteins": 524,
+											"fats": 23,
+											"carbohydrates": 32,
+											"calories": 23
+									},
+									"_id": "60e2cf0ff3f8d111a825cb04",
+									"weight": 69,
+									"additionals": [
+											{
+													"selection_required": false,
+													"_id": "60e2cf0ff3f8d111a825cb06",
+													"option_id": 21657,
+													"variants": [
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb07",
+																	"variant_id": 129381,
+																	"id": 782342,
+																	"price": 0
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb08",
+																	"variant_id": 129382,
+																	"id": 782344,
+																	"price": 0
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb09",
+																	"variant_id": 129383,
+																	"id": 782345,
+																	"price": 0
+															}
+													],
+													"default_variant_id": 129382,
+													"id": 143483
+											},
+											{
+													"selection_required": true,
+													"_id": "60e2cf0ff3f8d111a825cb0a",
+													"option_id": 22156,
+													"variants": [
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb0b",
+																	"variant_id": 136404,
+																	"max_limit": 3,
+																	"id": 782347,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb0c",
+																	"variant_id": 136405,
+																	"max_limit": 3,
+																	"id": 782348,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb0d",
+																	"variant_id": 136406,
+																	"max_limit": 3,
+																	"id": 782349,
+																	"price": 25
+															}
+													],
+													"default_variant_id": 136406,
+													"id": 143484
+											},
+											{
+													"selection_required": false,
+													"_id": "60e2cf0ff3f8d111a825cb0e",
+													"option_id": 22627,
+													"variants": [
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb0f",
+																	"variant_id": 139594,
+																	"max_limit": 4,
+																	"id": 782350,
+																	"price": 45
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb10",
+																	"variant_id": 139598,
+																	"max_limit": 4,
+																	"id": 782351,
+																	"price": 45
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb11",
+																	"variant_id": 139595,
+																	"max_limit": 4,
+																	"id": 782352,
+																	"price": 34
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb12",
+																	"variant_id": 139596,
+																	"max_limit": 4,
+																	"id": 782353,
+																	"price": 35
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb13",
+																	"variant_id": 139597,
+																	"max_limit": 4,
+																	"id": 782354,
+																	"price": 36
+															}
+													],
+													"id": 143485
+											},
+											{
+													"selection_required": false,
+													"_id": "60e2cf0ff3f8d111a825cb14",
+													"option_id": 21134,
+													"variants": [
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb15",
+																	"variant_id": 125922,
+																	"max_limit": 4,
+																	"free_limit": 2,
+																	"id": 782355,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb16",
+																	"variant_id": 125924,
+																	"max_limit": 4,
+																	"free_limit": 2,
+																	"id": 782356,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb17",
+																	"variant_id": 125921,
+																	"max_limit": 4,
+																	"free_limit": 2,
+																	"id": 782358,
+																	"price": 25
+															},
+															{
+																	"_id": "60e2cf0ff3f8d111a825cb18",
+																	"variant_id": 125923,
+																	"max_limit": 4,
+																	"free_limit": 2,
+																	"id": 782357,
+																	"price": 25
+															}
+													],
+													"id": 143486
+											}
+									],
+									"key": "21657V129383",
+									"id": 33468,
+									"price": 700
+							}
+					],
+					"unchangeable_combo_composition": [],
+					"partner": "kalmyk1",
+					"division": "partner",
+					"market_identifiers": [],
+					"legacy_properties": [],
+					"filter_values": [],
+					"category_sort_positions": [
+							{
+									"_id": "60e2ceedf3f8d111a825ca99",
+									"id": 19904,
+									"category_id": "103C5783",
+									"position": 2
+							}
+					],
+					"created_at": "2021-07-05T09:20:45.732Z",
+					"updated_at": "2021-07-05T09:27:26.836Z",
+					"id": 1369470,
+					"is_returnable": false,
+					"__v": 2,
+					"default_option_group_key": "21657V129382",
+					"price": 540
+			}
+	],
+	"total": 1
+}

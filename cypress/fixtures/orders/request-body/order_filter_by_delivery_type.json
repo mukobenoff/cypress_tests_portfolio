@@ -1,0 +1,16 @@
+{
+	"nav": {
+		"page": 1,
+		"lpage": 40
+	},
+	"filters": {
+		"shop_relationship": "marketplace",
+		"status": [
+			"delivered",
+			"done",
+			"returned",
+			"cancelled"
+		],
+		"shop": 632
+	}
+}

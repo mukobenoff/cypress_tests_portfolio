@@ -1,0 +1,97 @@
+{
+	"shop": {
+		"id": 632,
+		"address": "Москва, парк Ленина",
+		"type": "restaurant",
+		"city": "msk",
+		"delivery_time": 60,
+		"partner": {
+			"name": "Покешная «Угорь Игорь»",
+			"code": "test"
+		},
+		"timezone": "Europe/Moscow",
+		"tariff": {
+			"ranges": [
+				0,
+				599,
+				1000
+			],
+			"prices": [
+				100,
+				80,
+				50
+			],
+			"min_price": 0,
+			"max_weight": 10000,
+			"type": "by_shop",
+			"max_price_post_pay": 1000
+		},
+		"is_available": true,
+		"is_enable": true,
+		"payment_types": [
+			"card",
+			"courier_card",
+			"cash"
+		],
+		"marketplace": true,
+		"address_description": {
+			"courier": "Налево, направо, вход со двора, второй этаж",
+			"customer": "Направо от светофора, красная дверь с надписью"
+		},
+		"zones": [
+			{
+				"zone": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								37.379954250866184,
+								55.8715328098517
+							],
+							[
+								37.7219036902596,
+								55.88847978910455
+							],
+							[
+								37.838633418566594,
+								55.66449321912187
+							],
+							[
+								37.45136537877164,
+								55.57841945453209
+							],
+							[
+								37.379954250866184,
+								55.8715328098517
+							]
+						]
+					]
+				},
+				"_id": "5ffee390327f443f3fd7b7c1",
+				"shop_id": 632,
+				"city_code": "msk",
+				"__v": 0,
+				"id": "5ffee390327f443f3fd7b7c1"
+			}
+		],
+		"work_schedule": {
+			"open": 600,
+			"close": 1380
+		},
+		"holidays_work_schedule": {},
+		"dayoff_work_schedule": {},
+		"legal": "Больше не битое юрлицо",
+		"contacts": {
+			"phone": {
+				"director": "9199991122",
+				"manager": "9199991133",
+				"restaurant": "9199991144"
+			},
+			"email": {
+				"director": "director@lolkek.onion",
+				"manager": "manager@lolkek.onion",
+				"restaurant": "restaurant@lolkek.onion"
+			}
+		}
+	}
+}
